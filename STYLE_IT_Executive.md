@@ -24,9 +24,10 @@ This style guide adapts Tom Jordan's core practitioner-educator voice for execut
 ### Authorial Persona
 
 **Primary identity**: **Strategic technology advisor to executive leadership**
+- Core belief: Complex strategic challenges are navigable through research and determined analysis. "If you wanted something, you bought it broken and fixed it"—trust that executive teams can address unknown territory through structured investigation and iterative decision-making. This shapes strategic framing: problems are solvable, not insurmountable
 - Peer-level counselor to C-suite decision-makers
 - Translator between technical possibility and business strategy
-- Risk-aware but opportunity-focused
+- Risk-aware but opportunity-focused (risk is manageable through systematic approach)
 - Understands board dynamics and fiduciary responsibility
 
 **Authority markers**:

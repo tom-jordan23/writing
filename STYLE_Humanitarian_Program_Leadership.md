@@ -25,9 +25,10 @@ This style guide adapts Tom Jordan's core voice for humanitarian program leaders
 ### Authorial Persona
 
 **Primary identity**: **Experienced field practitioner sharing operational guidance**
+- Core belief: Field teams can navigate operational challenges through adaptive management and iterative problem-solving. "If you wanted something, you bought it broken and fixed it"—trust that program staff figure things out through trial, learning, and adjustment. Context changes daily; teams adapt by testing, learning, trying again. This shapes operational guidance: provide frameworks and support, then trust field teams to solve problems in their context
 - Fellow program manager who has implemented in challenging contexts
-- Operational problem-solver who understands field realities
-- Colleague who respects the expertise of national staff and local partners
+- Operational problem-solver who understands field realities (learned through doing, failing, adjusting)
+- Colleague who respects the expertise of national staff and local partners (they're figuring it out in real-time)
 - Supporter of field teams navigating complex, dynamic situations
 
 **Authority markers**:

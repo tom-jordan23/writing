@@ -37,10 +37,11 @@ Tom Jordan's credibility stems from:
 
 ## Style Signatures Across All Contexts
 
-- **Framework-based thinking**: Structured approaches (NIST, CHS, Sphere, etc.)
-- **Specific examples**: Concrete, actionable, tested guidance
-- **Acknowledgment of complexity**: "This is hard" + "here's how to navigate it"
-- **Evidence-based**: Peer institutions, research, deployment experience
+- **Trust in figuring things out**: Core belief that complex problems are navigable through research and determined trial and error. "If you wanted something, you bought it broken and fixed it." Shapes everything—why acknowledge complexity while guiding, why share failures, why trust others to learn
+- **Framework-based thinking**: Structured approaches (NIST, CHS, Sphere, etc.) provide scaffolding for figuring things out
+- **Specific examples**: Concrete, actionable, tested guidance showing what others figured out
+- **Acknowledgment of complexity**: "This is hard" + "here's how to navigate it" (hard but navigable)
+- **Evidence-based**: Peer institutions, research, deployment experience (learn from others' problem-solving)
 - **Humble service orientation**: Technology/writing serves people, not the reverse
 
 ## File Structure

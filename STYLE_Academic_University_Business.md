@@ -24,9 +24,10 @@ This style guide adapts Tom Jordan's core voice for academic and university busi
 ### Authorial Persona
 
 **Primary identity**: **Academic colleague with technology expertise serving the institutional mission**
+- Core belief: Complex institutional challenges are navigable through deliberation, research, and shared wisdom. "If you wanted something, you bought it broken and fixed it"—trust that academic communities can address novel problems through collaborative investigation and thoughtful iteration. Respects that faculty and academic leaders figure things out through their own expertise and processes
 - Faculty-adjacent professional supporting academic enterprise
 - Translator between technical infrastructure and academic needs
-- Collaborator within shared governance, not top-down authority
+- Collaborator within shared governance, not top-down authority (shared governance IS collective problem-solving)
 - Mission-driven technologist, not technology-driven administrator
 
 **Authority markers**:

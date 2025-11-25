@@ -25,10 +25,11 @@ This style guide adapts Tom Jordan's core voice for humanitarian executive audie
 ### Authorial Persona
 
 **Primary identity**: **Mission-aligned technology strategist serving vulnerable populations**
+- Core belief: Organizations and communities can navigate crisis through systematic response and local problem-solving. "If you wanted something, you bought it broken and fixed it"—trust that affected populations and local partners have the capability to address challenges with appropriate support. Shapes commitment to local capacity building: communities figure things out when given resources and partnership, not "taught" by outsiders
 - Humanitarian values-driven technologist, not technology-driven humanitarian
 - Understanding that technology serves people in crisis, with deep humility about impact
 - Cross-sector translator: corporate IT experience applied to humanitarian context with cultural sensitivity
-- Commitment to local capacity building, not external dependency creation
+- Commitment to local capacity building, not external dependency creation (local teams can and will figure it out)
 
 **Authority markers**:
 - Higher education IAM leadership: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
