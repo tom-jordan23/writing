@@ -1,286 +1,135 @@
-# Tom Jordan Writing Style Guides - README
+# Writing Style Documentation
 
-**When you're busy and need to delegate writing to AI:**
+This repository contains comprehensive style guides for replicating Tom Jordan's writing voice across different professional audiences.
 
----
+## Background
 
-## Quick Decision: Which Style Guide?
+These guides analyze writing patterns, voice, and approach based on published work and professional experience including:
+- Open source contributions (OpenLDAP, OpenSSL)
+- Standards development (SAML, OIDC)
+- Higher education open source community mentorship
+- Emergency response deployments (Civil Air Patrol, SIMS, American Red Cross)
+- Multi-sector experience (government emergency response, higher education IT, humanitarian field operations)
 
-**Ask yourself ONE question**: *Who will read this?*
+## File Selection
 
-| Your Reader | Use This File | What They Want |
-|-------------|---------------|----------------|
-| **CIO, CTO, IT Director** | `STYLE_IT_Executive.md` | ROI, risk, strategy, 5-min read |
-| **Systems engineer, architect** | `STYLE_IT_Technical.md` | Commands, configs, troubleshooting |
-| **Provost, dean, faculty** | `STYLE_Academic_University_Business.md` | Mission, governance, peer institutions |
-| **NGO director, COO** | `STYLE_Humanitarian_Executive.md` | Beneficiary impact, principles, funding |
-| **Country director, program manager** | `STYLE_Humanitarian_Program_Leadership.md` | SOPs, M&E, field operations |
-| **Field ICT officer** | `STYLE_Humanitarian_Technical.md` | Offline-first, solar-powered, locally fixable |
-| **Mixed or unsure** | `STYLE.md` | General professional |
+Choose the guide that matches your primary audience:
 
----
+| Audience | File | Focus |
+|----------|------|-------|
+| IT executives, CIOs, CTOs | `STYLE_IT_Executive.md` | Strategic decisions, ROI, risk management |
+| Systems engineers, architects | `STYLE_IT_Technical.md` | Implementation details, technical depth |
+| Academic administrators, deans | `STYLE_Academic_University_Business.md` | Mission alignment, shared governance |
+| Humanitarian organization leadership | `STYLE_Humanitarian_Executive.md` | Beneficiary impact, humanitarian principles |
+| Country directors, program managers | `STYLE_Humanitarian_Program_Leadership.md` | Field operations, M&E frameworks |
+| Field ICT officers, technical coordinators | `STYLE_Humanitarian_Technical.md` | Appropriate technology, offline-first design |
+| General or mixed audience | `STYLE.md` | Base style applicable across contexts |
 
-## Fast Track: 3 Steps
+## Using with AI Assistants
 
-### 1. Pick Your File (above)
+The simplest approach:
 
-### 2. Give AI Your Bullet Points
+1. Upload the relevant style guide file to your AI assistant (ChatGPT, Claude, etc.)
+2. Provide your topic and key points
+3. Ask the AI to write using the uploaded guide
 
-**Paste this template + your points:**
-
+Example prompt:
 ```
-Write about [TOPIC] for [AUDIENCE] using Tom Jordan's style guide.
+Write about [topic] for [audience] using the uploaded style guide.
 
-My key points:
-- [Your bullet point 1]
-- [Your bullet point 2]
-- [Your bullet point 3]
-- [etc.]
+Key points:
+- [point one]
+- [point two]
+- [point three]
 
-Requirements:
-- [Word count or length]
-- [Any special needs: deadline, specific framework, etc.]
-
-Use the uploaded style guide for voice, tone, and structure.
-```
-
-### 3. Upload the Style Guide File
-
-Drag the file from table above into your AI chat.
-
-**Done.** The AI has everything it needs.
-
----
-
-## Example (Copy This)
-
-```
-Write about implementing MFA for university faculty for systems engineers
-using Tom Jordan's style guide.
-
-My key points:
-- Need to support 50,000 users
-- Limited budget (~$50K)
-- Must work with existing Active Directory
-- Faculty hate complicated processes
-- Need open source options
-- Fall semester rollout (4 months)
-
-Requirements:
-- 2,000 words with code examples
-- Include step-by-step implementation
-- Cost breakdown
-
-Use the uploaded style guide for voice, tone, and structure.
+Length: [word count or approximate length]
 ```
 
-Then upload: `STYLE_IT_Technical.md`
+The guide contains the voice, tone, structure, and approach patterns. You provide the content direction.
 
----
+## Core Style Characteristics
 
-## What the AI Will Do
+All guides share these foundations:
 
-The AI will write with:
+**Structure**: Framework-based thinking with clear hierarchical organization. NIST, CHS, Sphere, or other established frameworks provide scaffolding.
 
-✅ **Your voice**: Open source advocate, standards contributor, emergency responder
-✅ **Your style**: Framework-based, specific examples (versions/costs/timelines)
-✅ **Your values**: Anti-oppressive, translation-friendly, warm and welcoming
-✅ **Your credibility**: OpenLDAP/OpenSSL contributor, SAML/OIDC standards, 20+ years mentoring
-✅ **Your experience**: CAP SAR pilot, SIMS deployments, university IT, humanitarian field work
+**Evidence**: Specific examples with version numbers, costs, timelines, and citations. Peer institutions for higher education contexts, deployment experience for humanitarian contexts, production implementations for technical contexts.
 
-No need to explain all that—it's in the guide.
+**Tone**: Authoritative without arrogance. Acknowledges complexity while providing practical guidance. Warm but not informal.
 
----
+**Language**: Translation-friendly—avoids idioms and culturally-specific metaphors, particularly critical in humanitarian and international higher education contexts.
 
-## If You Have < 1 Minute
+**Values**: Technology serves people. Centers marginalized voices. Challenges power structures. Open source advocacy when appropriate.
 
-**Absolute fastest** (ChatGPT Custom Instructions already set up):
+## Key Adaptations by Audience
 
-Just type:
-```
-Write [topic] for [audience]. Make it [length]. Key points:
-- [point]
-- [point]
-- [point]
-```
+**IT Executive**: Strategic framing, business impact, concise presentation suitable for senior leadership review. ROI and risk mitigation emphasized.
 
-The AI already has your base style in Custom Instructions.
+**IT Technical**: Implementation depth, command syntax, configuration examples, troubleshooting guidance. Peer-to-peer technical voice.
 
-*(See QUICK_START.md for setup)*
+**Academic**: Mission-first framing, respect for shared governance, consultation rather than direction. References to peer institutions and educational research.
 
----
+**Humanitarian Executive**: Beneficiary-centered decision making, humanitarian principles non-negotiable, resource constraints openly acknowledged.
 
-## Common Scenarios
+**Humanitarian Program**: Operational specificity, M&E integration, field team perspective, partner coordination emphasis.
 
-### "Write a technical guide"
-→ `STYLE_IT_Technical.md`
-→ Include: specific tools, commands, configs, costs
+**Humanitarian Technical**: Appropriate technology principles—offline-first, locally repairable, low power consumption, open source preferred. Constraint-driven design.
 
-### "Convince my CIO to fund this"
-→ `STYLE_IT_Executive.md`
-→ Include: ROI, risk mitigation, competitive positioning
+## Cross-Cutting Frameworks
 
-### "Present to Faculty Senate"
-→ `STYLE_Academic_University_Business.md`
-→ Include: mission alignment, peer institutions, governance process
+Three themes integrated across all guides:
 
-### "Create field guidance for program teams"
-→ `STYLE_Humanitarian_Program_Leadership.md`
-→ Include: SOPs, M&E indicators, partner coordination
+**Historical Context**: Optional connections to foundational principles and thinkers. Stoic philosophy applied to professional challenges (dichotomy of control, amor fati, sympatheia). Always framed as enrichment, never required knowledge.
 
-### "Write deployment instructions for harsh environments"
-→ `STYLE_Humanitarian_Technical.md`
-→ Include: power requirements, offline capability, local repair
+**Anti-Oppressive Language**: Actively challenges systems of oppression—racism, classism, sexism, ableism. Questions who benefits and who is excluded from technical decisions. Centers community voice over external expertise in humanitarian contexts.
 
----
+**Cross-Linguistic Accessibility**: Avoids idioms that fail in translation. One idea per sentence, active voice, specific verbs. Critical in humanitarian field operations where unclear guidance affects beneficiary safety.
 
-## File Sizes (FYI)
+## Common Issues
 
-| File | Lines | Best For |
-|------|-------|----------|
-| STYLE.md | 1,360 | General/baseline |
-| STYLE_IT_Executive.md | ~700 | Quick strategic pieces |
-| STYLE_IT_Technical.md | ~1,120 | Deep implementation guides |
-| STYLE_Academic_University_Business.md | ~885 | Academic communications |
-| STYLE_Humanitarian_Executive.md | ~865 | Humanitarian strategy |
-| STYLE_Humanitarian_Program_Leadership.md | ~877 | Field operations guidance |
-| STYLE_Humanitarian_Technical.md | ~1,423 | Field technical docs |
+**Output feels too generic**: Upload the full style guide file rather than relying on summary prompts. Specify the audience explicitly.
 
-All files upload fine to ChatGPT/Claude.
+**Wrong tone for audience**: Verify you uploaded the correct audience-specific guide. IT Executive and IT Technical guides produce significantly different output despite covering similar topics.
 
----
+**Uses problematic idioms**: Remind the AI that content may be translated—request literal, clear language particularly for humanitarian or international higher education contexts.
 
-## What Makes This Different from Generic AI Writing
+**Missing framework grounding**: Explicitly request framework integration—"ground this in NIST controls" or "reference CHS indicators."
 
-**Without your style guide:**
-- Generic corporate voice
-- No specific examples
-- Misses open source advocacy
-- Wrong depth for audience
-- Uses idioms (bad for translation)
-- Impersonal, sterile tone
+## Additional Resources
 
-**With your style guide:**
-- YOUR voice (open source leader, emergency responder, community mentor)
-- Specific versions, costs, timelines, commands
-- Open source solutions highlighted
-- Right depth: strategic for execs, deep for engineers
-- Translation-friendly (critical for humanitarian work)
-- Warm: "Everyone is welcome. This work is hard. You don't need to be perfect."
+`STYLE_INDEX.md` provides detailed comparison across guides and routing logic.
 
-**Big difference.**
+`QUICK_START.md` offers step-by-step setup for common AI platforms.
 
----
+`AI_INTEGRATION_GUIDE.md` covers platform-specific implementation (Custom GPT, Claude Projects, API integration).
 
-## Checklist: Before You Send
+`STYLE_PROMPT_CONDENSED.md` provides abbreviated guidance for character-limited contexts.
 
-Quick scan of AI output:
+## File Organization
 
-- [ ] Right depth for audience? (Strategic for execs, technical for engineers)
-- [ ] Specific examples? (Not just "use MFA" but "FreeOTP, Duo, or YubiKey")
-- [ ] Evidence cited? (Peer institutions, deployments, frameworks)
-- [ ] Open source mentioned? (When applicable)
-- [ ] Translation-friendly? (No idioms like "low-hanging fruit")
-- [ ] Warm tone? (Not sterile corporate speak)
+Total documentation: approximately 7,000 lines across all guides.
 
-If missing, tell AI: "Add more [specific examples / warmth / technical depth]"
+Base style guide (`STYLE.md`): 1,360 lines analyzing core patterns.
 
----
+Six audience-specific adaptations: 700-1,400 lines each, depending on context complexity.
 
-## Files Reference
+Supporting frameworks and integration guides: 200-500 lines each.
 
-**Start here** (you are here):
-- `README.md` ← **You are here**
+## Maintenance
 
-**For quick use**:
-- `QUICK_START.md` - First-time setup (5 min)
-- `STYLE_INDEX.md` - Detailed guide comparison
-- `STYLE_PROMPT_CONDENSED.md` - For character-limited platforms
+These guides represent patterns observed as of November 2025. Writing evolves with experience—particularly as deployment contexts, technology standards, and professional focus shift over time.
 
-**The actual style guides** (pick one):
-- `STYLE_IT_Executive.md`
-- `STYLE_IT_Technical.md`
-- `STYLE_Academic_University_Business.md`
-- `STYLE_Humanitarian_Executive.md`
-- `STYLE_Humanitarian_Program_Leadership.md`
-- `STYLE_Humanitarian_Technical.md`
-- `STYLE.md` (general/baseline)
+Update guides when:
+- New deployment experience adds relevant context
+- Professional role or focus changes
+- New frameworks or standards become relevant
+- Audience needs shift
+- Language usage evolves
 
-**Deep dive**:
-- `AI_INTEGRATION_GUIDE.md` - Platform-specific instructions
+Version control through git enables tracking changes and reverting if needed.
 
----
+## Note on Use
 
-## Pro Tips
+The style captured here reflects specific professional background and values. When using these guides, consider whether the voice fits your context. The technical patterns (structure, evidence, clarity) transfer broadly. The specific authority markers (deployment experience, standards work, community leadership) are contextual to this particular professional history.
 
-**Iterate fast:**
-1. Give AI your bullets + style guide
-2. Get draft in 30 seconds
-3. Say: "More technical depth" or "More concise" or "Add cost breakdown"
-4. Get revision in 20 seconds
-5. Done.
-
-**For important pieces:**
-- First pass: content and structure
-- Second pass: "Make this warmer and more welcoming"
-- Third pass: "Remove any idioms—this will be translated"
-- Fourth pass: "Add 2 specific examples with version numbers"
-
-**Save time:**
-- Set up Custom GPT once (see QUICK_START.md)
-- Use it for everything
-- No repeated setup
-
----
-
-## When Something Feels Off
-
-**Output doesn't sound like you?**
-→ Make sure you uploaded the style guide file (not just wrote the prompt)
-
-**Too formal/corporate?**
-→ Remind: "Use the warm, peer-to-peer tone from the guide"
-
-**Too generic?**
-→ Remind: "Include specific tools, versions, and costs like in the guide"
-
-**Uses idioms?**
-→ Remind: "This will be translated. Avoid idioms. Use clear, literal language."
-
-**Wrong depth?**
-→ Check you used right audience file (Executive vs Technical makes huge difference)
-
----
-
-## Bottom Line
-
-You have 7,000+ lines of writing guidance covering:
-- Your background (open source, standards, emergency response, mentorship)
-- Your style (framework-based, specific, evidence-based, warm)
-- Your values (anti-oppressive, translation-friendly, technology serves people)
-- Your voice for 6 different audiences
-
-**When you're busy:**
-1. Pick the right file from the table at top
-2. Give AI your bullet points
-3. Upload the file
-4. Get a draft in 30 seconds
-
-That's it.
-
-The guides do the heavy lifting. You just provide the content and direction.
-
----
-
-## Questions?
-
-- Setup help → `QUICK_START.md`
-- Platform-specific → `AI_INTEGRATION_GUIDE.md`
-- Detailed comparison → `STYLE_INDEX.md`
-- Character limits → `STYLE_PROMPT_CONDENSED.md`
-
-Or just upload a guide and ask the AI: "How do I use this?"
-
----
-
-**Remember**: Everyone is welcome. You don't need to be perfect. The AI is here to help. Let's write clearly and serve people well.
+If writing for audiences unfamiliar with the background, you may need to establish credibility through different evidence sources while maintaining the structural and tonal patterns.
