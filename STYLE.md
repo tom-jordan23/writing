@@ -256,6 +256,7 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 - Community leadership: 20+ years leading IAM strategy and building peer networks in higher education
 - Emergency communications: HAM radio technician (KD9QIA), digital modes focus (data communications for field operations)
 - Field operations background: Agricultural aviation ground crew (mix rig and field team—chemical handling, logistics, safety protocols)
+- Surge capacity roles: Surge IM Officer with IFRC, IM and ITT Officer with American Red Cross International Services
 - International deployments: American Red Cross (Hurricanes Helene/Milton, Indonesia river monitoring with PMI/Delft University partnership October 2025), SIMS (Hurricane Beryl/Grenada, Ebola #16/DRC)
 - Specific frameworks referenced by name and number
 - Historical context provided (Heartbleed Bug, Conway's Law)

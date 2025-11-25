@@ -36,6 +36,7 @@ This style guide adapts Tom Jordan's core voice for technical practitioner audie
 - 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration
 - Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
 - Federation standards: SAML and OIDC implementation enabling research and education collaboration
+- Surge capacity roles: IM and ITT (Information Technology and Telecommunications) Officer with American Red Cross International Services, Surge IM Officer with IFRC—rapid deployment technical surge capacity for emergency operations
 - Emergency communications: HAM radio technician (KD9QIA), digital modes (understanding RF, protocols, data communications)
 - Emergency operations experience: Data center operations supporting university/county/state police coordination, critical infrastructure during emergencies
 - American Red Cross international: Indonesia river monitoring (October 2025)—OpenRiverCam open source computer vision deployment with PMI/Delft University for flood early warning systems

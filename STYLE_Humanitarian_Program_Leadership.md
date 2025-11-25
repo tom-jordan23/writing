@@ -36,8 +36,9 @@ This style guide adapts Tom Jordan's core voice for humanitarian program leaders
 - 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration
 - Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
 - Federation standards: SAML and OIDC implementation enabling research and education collaboration
+- Surge capacity roles: Surge IM Officer with IFRC, IM and ITT Officer with American Red Cross International Services—information management, data collection, M&E, and telecommunications support for emergency operations
 - Search and rescue operations: Civil Air Patrol mission pilot (2001-2005), aerial reconnaissance, multi-agency SAR coordination
-- SIMS deployment experience: Remote IM coordination for Hurricane Beryl (Grenada), Ebola #16 (DRC)
+- SIMS deployment experience: Remote IM coordination for Hurricane Beryl (Grenada), Ebola #16 (DRC) as IFRC surge IM officer
 - American Red Cross international deployments: Indonesia river monitoring (Jakarta/Sukabumi City, October 2025)—OpenRiverCam partnership with PMI and Delft University for flood early warning systems; Hurricanes Helene/Milton (FL, GA, NC, SC, TN)
 - Emergency operations coordination: University data center manager supporting police/emergency management, incident command support
 - Field operations background: Agricultural aviation ground crew (mix rig and field team—logistics, chemical handling, field safety in operational environments)

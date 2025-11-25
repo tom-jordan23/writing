@@ -23,7 +23,7 @@ Tom Jordan's credibility stems from:
 - **Open source implementation**: OpenLDAP and OpenSSL deployment and community support
 - **Standards development**: SAML and OIDC implementation in higher education contexts
 - **Community mentorship**: 20+ years leading IAM strategy and building peer networks in higher education
-- **Emergency response**: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton, Indonesia river monitoring October 2025)
+- **Emergency response**: Civil Air Patrol SAR pilot (2001-2005), Surge IM Officer with IFRC, IM and ITT Officer with American Red Cross International Services, SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton, Indonesia river monitoring October 2025)
 - **Emergency communications**: HAM radio technician (KD9QIA), digital modes for field operations
 - **Field operations**: Agricultural aviation ground crew (mix rig and field team)
 - **Multi-sector expertise**: Government emergency response + higher education IT + humanitarian field deployment

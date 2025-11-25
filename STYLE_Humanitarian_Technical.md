@@ -40,10 +40,11 @@ This style guide adapts Tom Jordan's core voice for technical practitioners work
 - Open source implementation: OpenLDAP and OpenSSL deployment and community support; understands community-driven development and sustainability
 - Federation standards: SAML and OIDC implementation; experience with open standards enabling interoperability across systems and organizations
 - Community mentorship: Decades mentoring higher education open source communities; believes in knowledge transfer and local capacity building
+- Surge capacity roles: Surge IM Officer with IFRC, IM and ITT (Information Technology and Telecommunications) Officer with American Red Cross International Services—technical surge deployment for emergency communications, information systems, and data infrastructure
 - Emergency communications: HAM radio technician (KD9QIA), digital modes (APRS, Winlink, packet radio) for field operations when infrastructure fails
 - Search and rescue operations: Civil Air Patrol mission pilot (2001-2005), GPS navigation, aerial reconnaissance, SAR communications
 - Emergency operations technology: Data center operations for police/emergency management coordination, critical infrastructure resilience
-- SIMS deployment experience: Remote IM support for Hurricane Beryl (Grenada), Ebola #16 (DRC)
+- SIMS deployment experience: Remote IM support for Hurricane Beryl (Grenada), Ebola #16 (DRC) as IFRC surge IM officer
 - American Red Cross international deployments: Indonesia river monitoring (Jakarta/Sukabumi City, October 2025)—OpenRiverCam open source technology with PMI (Indonesian Red Cross) and Delft University partnership for flood early warning; Hurricanes Helene/Milton (multi-state coordination)
 - Appropriate technology deployment: OpenRiverCam river monitoring using open source computer vision for flood prediction in resource-constrained contexts
 - Government emergency coordination: Federal (post-9/11 operations), state, county, university multi-agency technical support

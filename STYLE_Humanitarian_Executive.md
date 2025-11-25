@@ -37,8 +37,9 @@ This style guide adapts Tom Jordan's core voice for humanitarian executive audie
 - 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration
 - Open source implementation: OpenLDAP and OpenSSL deployment and community support; understands community sustainability and avoiding vendor dependency
 - Federation standards: SAML and OIDC implementation; experience with collaborative standards processes enabling interoperability
+- Surge capacity roles: Surge IM Officer with IFRC (International Federation of Red Cross and Red Crescent Societies), IM and ITT Officer with American Red Cross International Services—rostered for rapid deployment information management and telecommunications support
 - Search and rescue experience: Civil Air Patrol mission pilot (2001-2005), federal/state/local coordination, aerial SAR operations
-- SIMS deployment experience: Remote information management for Hurricane Beryl (Grenada), Ebola #16 (DRC)
+- SIMS deployment experience: Remote information management for Hurricane Beryl (Grenada), Ebola #16 (DRC) through IFRC surge mechanism
 - American Red Cross international deployments: Indonesia river monitoring (Jakarta/Sukabumi City, October 2025)—OpenRiverCam partnership with PMI (Indonesian Red Cross) and Delft University (Netherlands); Hurricanes Helene/Milton (multi-state domestic response)
 - Emergency operations coordination: University data center supporting police/emergency management, multi-agency collaboration
 - Humanitarian principles fluency: CHS, Sphere, humanitarian imperative, Do No Harm
