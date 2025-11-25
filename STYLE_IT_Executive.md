@@ -16,6 +16,7 @@ This style guide adapts Tom Jordan's core practitioner-educator voice for execut
 - **Strategic altitude**: Architecture and portfolio thinking, not implementation
 - **Time-conscious structure**: Executive summary mandatory, extreme scannability
 - **Decision orientation**: Clear recommendations with trade-offs articulated
+- **Holistic cost analysis**: Total cost of ownership (TCO) including operational costs, environmental sustainability (carbon footprint, e-waste, energy efficiency), ESG reporting implications, long-term financial and environmental impact. Board-level fiduciary responsibility includes environmental stewardship
 
 ---
 

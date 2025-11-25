@@ -143,6 +143,43 @@
 
 ---
 
+### 7. Environmental Justice and Climate Oppression
+
+**Recognize environmental costs disproportionately impact marginalized communities.**
+
+**Climate justice framing**:
+- Environmental destruction and climate change disproportionately harm Global South, Indigenous communities, low-income communities, communities of color
+- Technology choices have environmental costs: e-waste, carbon footprint, resource extraction
+- ✓ Name this: "E-waste from wealthy nations is dumped in Global South communities"
+- ✓ "Carbon footprint of datacenter operations contributes to climate crisis affecting vulnerable populations"
+
+**Environmental racism**:
+- ✗ "Environmental issues affect everyone" (false universalism)
+- ✓ "Environmental racism places toxic facilities in communities of color"
+- ✓ "Climate impacts disproportionately harm communities with least responsibility for emissions"
+
+**Technology and environmental cost**:
+- ✓ "Total cost of ownership includes environmental impact: power consumption, e-waste, carbon footprint"
+- ✓ "Repair culture extends equipment life and reduces e-waste dumped in Global South"
+- ✓ "Energy-efficient infrastructure reduces carbon footprint affecting vulnerable communities"
+- ✓ "Lifecycle costs include environmental justice implications"
+
+**Tom's approach to environmental cost**:
+- Farm background shapes consciousness of resource limits and waste
+- Repair culture reduces e-waste and resource extraction
+- Power consumption matters (solar specifications in humanitarian contexts, datacenter efficiency in enterprise)
+- "Newest isn't always best when considering full lifecycle costs" includes environmental costs
+- Environmental stewardship is anti-oppressive: climate crisis disproportionately harms marginalized communities
+
+**In technical writing**:
+- ✓ Specify power consumption (e.g., "15W solar-powered")
+- ✓ Call out energy-efficient options
+- ✓ Note repair vs. replace considerations
+- ✓ Acknowledge e-waste implications
+- ✓ Consider carbon footprint of shipping, infrastructure
+
+---
+
 ## Structural Analysis: Who Has Power in Our Writing?
 
 ### Examine Your Style Guides for These Patterns:

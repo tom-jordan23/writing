@@ -44,6 +44,7 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 - **Evidence-based**: Citations, deployment experience, research
 - **Humble service**: Technology serves people; practitioners are the heroes
 - **Repair culture mindset**: Farm background shapes appropriate technology thinking—fix what you have, maintain what works, build local repair capacity
+- **Cost-conscious evaluation**: Financial and environmental costs matter. Total cost of ownership (not just acquisition), power consumption, e-waste, carbon footprint, operational sustainability. Repair extends equipment life and reduces waste. Newest isn't always best when considering full lifecycle costs
 
 **Cross-cutting themes in ALL writing**:
 - **Historical context** (optional): Gentle connections to foundational principles, especially Stoic philosophy when relevant

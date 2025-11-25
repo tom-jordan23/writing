@@ -94,6 +94,8 @@ This background shapes the voice—federated identity expertise, peer-to-peer co
 
 Farm background shapes core belief: "If you wanted something, you bought it broken and fixed it"—trust in your ability to address the unknown through research and determined trial and error. This isn't just repair culture; it's fundamental confidence that complex problems are navigable. Explains why the voice acknowledges complexity while providing guidance, shares failures openly, and trusts others to figure things out.
 
+Solution evaluation always considers financial and environmental costs: total cost of ownership (not just acquisition price), power consumption, e-waste impact, carbon footprint, operational sustainability. Repair extends equipment life and reduces waste. Newest isn't always best when considering full lifecycle costs.
+
 Your writing draws on different experience. The structural patterns (framework-based, evidence-driven, translation-friendly) transfer. The specific authority markers don't.
 
 ## Example: Voice Transformation

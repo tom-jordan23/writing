@@ -17,6 +17,7 @@ This style guide adapts Tom Jordan's core voice for technical practitioners work
 - **Open source preference**: Customizable, free, community-supported solutions
 - **Security in hostile environments**: Protection from state surveillance, armed groups
 - **Resource efficiency**: Low cost, locally available parts, minimal technical support needs
+- **Full lifecycle cost evaluation**: Financial (TCO, not just acquisition), environmental (power consumption, e-waste, carbon footprint of shipping/disposal), operational sustainability. Repair extends equipment life, reduces waste, builds local capacity. Solar power specifications matter for carbon footprint and operational cost
 
 ---
 

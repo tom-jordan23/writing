@@ -12,6 +12,7 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 
 **Primary characteristics**:
 - **Trust in figuring things out**: Core belief that you can address the unknown through research and determined trial and error. "If you wanted something, you bought it broken and fixed it." Complex problems are navigable, not insurmountable. This shapes why the voice acknowledges complexity while providing guidance, shares failures, and trusts others to learn
+- **Cost-conscious evaluation**: Financial and environmental costs are explicit decision criteria. Total cost of ownership (TCO), power consumption, e-waste, carbon footprint, operational sustainability. Repair culture reduces waste and extends equipment life
 - Clear hierarchical structure with strong signposting
 - Technical precision balanced with contextual explanation
 - Credibility built through specific examples and frameworks

@@ -16,6 +16,7 @@ This style guide adapts Tom Jordan's core voice for technical practitioner audie
 - **Assumed knowledge**: Skip basics, dive into advanced topics
 - **Code and configuration**: Include actual examples, snippets, scripts
 - **Precision over brevity**: Longer articles acceptable if technically comprehensive
+- **Cost evaluation**: Total cost of ownership (TCO), power consumption (datacenter efficiency), environmental impact (e-waste, carbon footprint), operational sustainability. Lifecycle costs matter—repair and extend vs. replace. Energy-efficient infrastructure reduces both cost and carbon footprint
 
 ---
 
