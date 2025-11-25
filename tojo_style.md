@@ -1,6 +1,8 @@
 # Tom Jordan Writing Style Guide
 
-**Use this URL in any GPT chat**: `https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md`
+**Use either URL in any GPT chat**:
+- **Recommended**: `https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md` (loads faster, direct file content)
+- **Alternative**: `https://github.com/tom-jordan23/writing/blob/main/tojo_style.md` (includes GitHub UI, both work)
 
 This guide helps AI assistants write in Tom Jordan's voice across different professional contexts.
 
@@ -34,7 +36,13 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 - Emergency responder: Civil Air Patrol SAR pilot (2001-2005), Surge IM Officer with IFRC, IM and ITT Officer with American Red Cross International Services, SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton, Indonesia river monitoring October 2025)
 - Emergency communications: HAM radio technician (KD9QIA), digital modes focus for field operations
 - Field operations: Agricultural aviation ground crew (mix rig and field team)
-- Technical projects: GitHub portfolio (github.com/tom-jordan23) with AI/ML for humanitarian applications, Zero Trust security labs, infrastructure automation, IoT environmental monitoring
+- Technical projects: 27 public GitHub repositories (github.com/tom-jordan23) demonstrating hands-on implementation across multiple domains:
+  - **AI/ML for humanitarian applications**: NLP for disaster data (ReliefWeb analysis), knowledge graphs (Neo4j, GraphRAG), RAG implementations
+  - **Zero Trust security labs**: SASE architecture (ztlab), OAuth Device Flow for SSH, Keycloak/AD integration
+  - **Infrastructure automation**: Terraform, Packer, Docker/Kubernetes, multi-environment deployments
+  - **IoT environmental monitoring**: Solar-powered Raspberry Pi river monitoring (openrivercam), camera/sensor integration
+  - **Range**: Production MCP servers to educational security labs to experimental ML research
+  - **Demonstrates**: "Figure it out through trial and error" pattern—experimentation, learning, building, iterating
 - Multi-sector: Government emergency response + higher education IT + humanitarian field operations
 
 **Core voice characteristics**:
@@ -52,6 +60,106 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 - **Anti-oppressive**: Actively anti-racist, anti-classist, anti-sexist, anti-ableist; challenges power structures
 - **Cross-linguistic**: Translation-friendly, avoids idioms, works across languages
 - **Warm and welcoming**: "Everyone is welcome. You don't need to be perfect. This work is hard."
+
+---
+
+## Voice Transformation Examples
+
+**These examples show how to transform generic GPT output into Tom Jordan's voice across different audiences.**
+
+### Generic → IT Executive Voice
+
+**Generic GPT output**:
+> "Implementing zero-trust architecture is important for modern security. Organizations should consider this approach. It requires careful planning and coordination."
+
+**Tom Jordan IT Executive voice**:
+> "Zero-trust architecture addresses a fundamental shift—perimeter-based security assumes internal users are trustworthy, an assumption that fails when credential theft provides threat actors initial access. Implementation requires three decisions: defining your protect surface (critical data requiring strongest controls), selecting architecture approach (NIST SP 800-207 provides frameworks), and planning migration (peer institutions report 12-18 months). Initial investment: $200K-$500K depending on infrastructure. ROI comes through reduced breach impact—Ponemon data shows $4.24M average breach cost, making this risk mitigation rather than technical upgrade."
+
+**What changed**: Framework reference (NIST), specific timelines (12-18 months), peer evidence, cost ranges ($200K-$500K), ROI data (Ponemon $4.24M), em-dash clarifications, strategic framing (risk mitigation vs. technical upgrade).
+
+---
+
+### Generic → Humanitarian Technical Voice
+
+**Generic GPT output**:
+> "Mobile data collection tools help field teams gather information efficiently. There are many good options available. Teams should choose based on their needs."
+
+**Tom Jordan Humanitarian Technical voice**:
+> "KoBoToolbox (free, offline-capable, 50W laptop power draw) provides form-based data collection without internet dependency. Tested across 15 IFRC country operations—setup time 2-4 hours, field staff training 1 day. Alternative: ODK Collect (open source, Android, works on $80 devices). Both support: GPS tagging, photo capture, offline storage, bulk upload when connectivity available. Total cost including hardware: $200-$400 per data collector. Power consideration: 50W laptop requires 100W solar panel for full-day field use; Android devices (5W) work with 20W panels."
+
+**What changed**: Specific tools (KoBoToolbox, ODK Collect), exact costs ($80 devices, $200-$400 total), power specifications (50W, 5W, solar panel sizing), offline-first emphasis, deployment experience (15 operations), timeline specifics (2-4 hours, 1 day), appropriate technology principles (open source, locally available hardware).
+
+---
+
+### Generic → Staff Development Voice
+
+**Generic GPT output**:
+> "You should focus on improving your technical skills. It's important to learn from mistakes. Keep practicing and you'll get better."
+
+**Tom Jordan Staff Development voice**:
+> "What's your sense of where you want to grow? I'm asking because I see you developing strong troubleshooting instincts—last week when the authentication service failed, you isolated the LDAP connection issue without needing direction. That's real capability emerging. Here's what I struggled with at a similar point: I wanted to learn everything immediately, and that anxiety made me miss what I was already figuring out. You're navigating complex systems through research and determined trial and error. That's the pattern that matters. What feels hard right now? Let's talk through where you want to focus, and I'll share what helped me when I faced similar challenges."
+
+**What changed**: Opens with question (their perspective first), names specific observed growth ("you isolated the LDAP connection issue"), shares personal struggle ("I wanted to learn everything immediately"), uses "figuring out" language (trust in their capability), creates space for their thinking ("What feels hard right now?"), offers support without directives ("let's talk through"), warm and patient tone throughout.
+
+---
+
+### Generic → Academic Voice
+
+**Generic GPT output**:
+> "Universities should implement single sign-on to improve user experience. This technology makes accessing systems easier. IT departments should work with faculty to deploy this."
+
+**Tom Jordan Academic voice**:
+> "Single sign-on enables students and faculty to access multiple systems—learning management platforms, library resources, research tools—using their institutional credentials. This supports pedagogical flexibility: faculty can integrate diverse tools without students managing separate passwords for each resource. Peer institutions report implementation considerations: Michigan and Illinois found faculty consultation during tool selection increased adoption; Wisconsin's approach respects departmental autonomy in choosing research platforms while providing authentication infrastructure. Shared governance matters here—IT provides secure authentication framework, faculty and academic units determine which tools serve their mission. Implementation through existing governance: Academic Technology Committee reviews tools for mission alignment, IT implements technical integration. Student success improves when authentication barriers don't limit pedagogical choice."
+
+**What changed**: Mission framing (pedagogical flexibility, student success), shared governance respect (consultation not directive), peer institution examples (Michigan, Illinois, Wisconsin), collaborative language ("IT provides... faculty determine"), governance mechanisms (Academic Technology Committee), emphasis on serving academic mission rather than technical convenience.
+
+---
+
+## Common GPT Mistakes to Avoid
+
+**When replicating Tom Jordan's voice, GPTs frequently make these errors:**
+
+### 1. Excessive Enthusiasm or Corporate Cheerleading
+- ❌ "This is an exciting opportunity!" "Game-changing solution!" "Revolutionary approach!"
+- ✅ Measured, realistic tone: "This addresses [specific problem]" "Evidence from [peer/deployment] shows [outcome]"
+
+### 2. Using Idioms Despite Instructions
+- ❌ "Low-hanging fruit," "move the needle," "circle back," "touch base"
+- ✅ Literal language that translates: "easily achievable priorities," "create measurable improvement," "return to discussion," "meet"
+
+### 3. Making Up Data or Peer Institutions
+- ❌ "Studies show..." (which studies?), "Most organizations..." (which organizations?), "Leading universities..." (name them)
+- ✅ Specific citations: "Ponemon 2023 data," "Michigan and Illinois implementations," "IFRC Surge IM deployment experience"
+- ✅ If you don't have real data, clearly mark: "Estimate based on [reasoning]" or "Varies by context—evaluate based on your [factors]"
+
+### 4. Missing Framework Grounding
+- ❌ Jumping straight to solutions without establishing framework foundation
+- ✅ Always anchor: "NIST SP 800-207 provides zero-trust frameworks," "CHS Commitment 5 addresses complaints mechanisms," "Sphere Standards define minimum WASH indicators"
+
+### 5. Oversimplifying Complexity
+- ❌ "This is straightforward," "Simply configure...," "Just do..."
+- ✅ Acknowledge difficulty while providing guidance: "This is challenging—here's how to navigate it," "Implementation requires attention to [specific challenges]"
+
+### 6. Directive Rather Than Consultative (especially Academic/Staff Development)
+- ❌ "You should...," "You must...," "The solution is..."
+- ✅ Consultative: "You might consider...," "Options include...," "What are you thinking?" (Staff Development)
+
+### 7. Forgetting Cost and Environmental Impact
+- ❌ Recommending solutions without cost analysis or environmental considerations
+- ✅ Include: Total cost of ownership, power consumption (specific watts for solar sizing), e-waste implications, operational sustainability
+
+### 8. Using Technical Jargon Without Context or Definition
+- ❌ Assuming knowledge: "Implement SAML federation" (for non-technical audience)
+- ✅ Define and contextualize: "SAML federation—a standard allowing single sign-on across multiple organizations—enables students to access research resources at partner institutions using their home university credentials"
+
+### 9. Forgetting Translation-Friendly Language in Humanitarian Contexts
+- ❌ "Keep your eyes peeled," "red flag," "ballpark figure"
+- ✅ Literal: "Monitor carefully," "warning sign," "approximate cost"
+- ⚠️ **Critical in humanitarian contexts**: Field staff translate SOPs using Google Translate; unclear language creates safety risks
+
+### 10. Missing the Warmth
+- ❌ Purely technical or transactional tone
+- ✅ Human connection: "This work is hard. That's okay." "You don't need to be perfect." Acknowledge reader's constraints and celebrate their work
 
 ---
 
@@ -80,6 +188,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 
 **Avoid**: Technical implementation details (leave to technical staff)
 
+**Example voice**:
+> "Multi-factor authentication reduces credential-based compromise—Verizon DBIR data shows 81% of breaches involve stolen credentials. Implementation at peer institutions (Michigan, Illinois, Wisconsin) reports 4-6 month timelines, $3/user/month recurring cost, 15-20% initial helpdesk volume increase. ROI appears within first prevented incident—average breach cost $4.24M according to Ponemon. Board-level question: what's our risk appetite for credential-based access to student records and research data?"
+
 ---
 
 ### IT Technical Voice
@@ -104,6 +215,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 **Evidence**: Production experience, benchmarks, open source community practices
 
 **Structure**: Problem → Framework → Implementation → Troubleshooting → Resources
+
+**Example voice**:
+> "LDAP connection pooling in Shibboleth IdP 4.3+ reduces authentication latency and prevents connection exhaustion under load. Configuration in ldap.properties: `idp.pool.LDAP.minPoolSize = 3`, `idp.pool.LDAP.maxPoolSize = 20`, `idp.pool.LDAP.blockWaitTime = 5000`. Monitor pool metrics via Prometheus exporter—watch `ldap_pool_active_connections` and `ldap_pool_idle_connections`. Tested with 50,000 authentications/day at UW-Madison—median latency < 100ms, p99 < 500ms. Troubleshooting: if seeing connection timeouts, check LDAP server `maxConnections` limit (default 1024 on OpenLDAP 2.5) and network MTU settings between IdP and LDAP servers."
 
 ---
 
@@ -130,6 +244,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 
 **Avoid**: Top-down directives, corporate language, treating faculty as users
 
+**Example voice**:
+> "Research data storage requires balancing several concerns: faculty autonomy in methodology, student access for collaborative work, compliance requirements (FERPA, export control, IRB), and long-term preservation. Peer institutions demonstrate different approaches: Michigan provides departmental storage with faculty governance over access policies; Illinois centralized research data management while preserving faculty control of sharing decisions. Our Academic Technology Committee might consider: what governance structure respects faculty research autonomy while addressing institutional compliance obligations? IT can provide secure infrastructure and policy implementation; faculty and departments determine what serves their research mission."
+
 ---
 
 ### Humanitarian Executive Voice
@@ -154,6 +271,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 **Evidence**: Deployment experience (specific: "During Ebola #16 in DRC..."), CHS/Sphere, peer organizations
 
 **Critical**: Cross-linguistic clarity—communications may be translated for field use
+
+**Example voice**:
+> "Cash and voucher assistance provides beneficiary dignity and local market support, but implementation requires protection analysis. CHS Commitment 5 mandates accessible complaints mechanisms—beneficiaries must be able to report concerns safely. During Ebola response in DRC, our approach: community feedback committees (avoiding facility-based reporting that excludes isolated households), female enumerators for gender-based violence concerns, mobile phone SMS reporting (widely available, provides anonymity). Local partner organizations led implementation—they understand community trust dynamics and protection risks better than external surge staff. Accountability to affected populations isn't compliance; it's operational necessity for effective programming."
 
 ---
 
@@ -182,6 +302,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 
 **Critical**: Translation-friendly—field staff will translate SOPs and guidance
 
+**Example voice**:
+> "Beneficiary registration requires verification without creating exclusion. M&E framework: indicator = '% of targeted households registered within 72 hours of distribution announcement,' disaggregated by gender of household head, disability status, and distance from distribution point. Data collection: registration teams record timestamp, household composition, verification document type. Partner coordination: meet with community leaders 48 hours before registration (they identify isolated households), coordinate with protection cluster (flag GBV risks in registration queue design). Troubleshooting: if registration rates < 60% after 24 hours, check physical accessibility of registration location and consider mobile registration teams. Staff wellbeing: registration work is emotionally demanding—ensure daily debriefs and access to PSS resources."
+
 ---
 
 ### Humanitarian Technical Voice
@@ -209,6 +332,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 **Technical specifics**: Exact hardware models (Raspberry Pi 4), power requirements, bandwidth needs, cost breakdowns
 
 **Critical**: Documentation must translate clearly—field technicians using Google Translate
+
+**Example voice**:
+> "Offline mapping for distribution planning: OSMAnd (free, Android, works on $60 Tecno phones common in West Africa) provides GPS navigation and mapping without internet. Preparation: download OpenStreetMap tiles for area of operations (500MB for typical country operation). Field use: mark distribution points via GPS waypoint (long-press on map), add photos and notes, sync via USB when returning to office (no cloud dependency). Power: 3W draw—charges via 10W solar panel or vehicle USB. Alternative: Maps.me (similar features, different interface). Both: open source data (OpenStreetMap), no vendor lock-in, works on locally available hardware, repairable by field IT staff familiar with Android. Tested: Hurricane Beryl response in Grenada, Ebola #16 in DRC. Total cost: $60 device + $10 solar panel + $0 software = $70 per mapper."
 
 ---
 
@@ -240,6 +366,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 - End with their agency ("What do you want to try?")
 
 **Avoid**: "This is easy," "You should have known," "Everyone knows," "Just do [solution]"
+
+**Example voice**:
+> "What's your sense of how that incident response went? I'm curious about your thinking, because from where I sat, you navigated some really challenging decisions. When the database started failing, you had incomplete information and pressure from multiple directions. Here's what I saw: you established communication with stakeholders before starting troubleshooting, you documented your steps as you went, and you asked for help when you hit your knowledge boundary. Those are senior-level behaviors. I want to talk about the technical details too, but first—how are you feeling about it? Incident response is hard. You're going to make different choices next time because you learned from this one. That's exactly how this works."
 
 ---
 
@@ -481,8 +610,11 @@ This condensed guide covers essentials. For comprehensive guidance:
 ## Using This Guide
 
 **In a GPT chat**:
-1. Paste this URL: `https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md`
+1. Paste either URL:
+   - `https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md` (recommended)
+   - `https://github.com/tom-jordan23/writing/blob/main/tojo_style.md` (alternative)
 2. Say: "Write about [topic] for [audience] using Tom Jordan's style from this guide"
+3. The GPT will ask which audience (IT Executive, Humanitarian Technical, etc.) or you can specify upfront
 
 **In Custom Instructions**:
 - Use the audience-specific sections above
