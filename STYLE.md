@@ -253,6 +253,8 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 - Open source contributions: OpenLDAP and OpenSSL implementation and community support
 - Standards development: SAML and OIDC implementation in higher education federation contexts
 - Community leadership: 20+ years leading IAM strategy and building peer networks in higher education
+- Emergency communications: HAM radio technician (KD9QIA), digital modes focus (data communications for field operations)
+- Field operations background: Agricultural aviation ground crew (mix rig and field team—chemical handling, logistics, safety protocols)
 - Specific frameworks referenced by name and number
 - Historical context provided (Heartbleed Bug, Conway's Law)
 - "We" when referring to higher ed community

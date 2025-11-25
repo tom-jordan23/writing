@@ -39,6 +39,7 @@ This style guide adapts Tom Jordan's core voice for humanitarian program leaders
 - SIMS deployment experience: Remote IM coordination for Hurricane Beryl (Grenada), Ebola #16 (DRC)
 - Domestic disaster response: In-person deployment Hurricanes Helene/Milton (FL, GA, NC, SC, TN)
 - Emergency operations coordination: University data center manager supporting police/emergency management, incident command support
+- Field operations background: Agricultural aviation ground crew (mix rig and field team—logistics, chemical handling, field safety in operational environments)
 - Operational scale awareness: 1,900+ responder deployments, 80,000+ people sheltered, island nation logistics, SAR missions
 - Diverse context experience: Island disasters, disease outbreaks, mass casualty events, multi-state responses, search and rescue
 - Government coordination: Federal (USAF Rescue Coordination Center), state, county, university police partnerships

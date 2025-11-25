@@ -18,10 +18,14 @@
 ## Core Authority Markers (All Guides)
 
 Tom Jordan's credibility stems from:
-- **Open source leadership**: Code contributions to OpenLDAP and OpenSSL
-- **Standards development**: Contributed to SAML and OIDC standards
-- **Community mentorship**: Decades leading higher education open source community
+- **Higher education IAM leadership**: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee (2024-2026)
+- **Trusted Access Platform**: Shibboleth and Grouper implementation and architecture for federated identity
+- **Open source implementation**: OpenLDAP and OpenSSL deployment and community support
+- **Standards development**: SAML and OIDC implementation in higher education contexts
+- **Community mentorship**: 20+ years leading IAM strategy and building peer networks in higher education
 - **Emergency response**: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton)
+- **Emergency communications**: HAM radio technician (KD9QIA), digital modes for field operations
+- **Field operations**: Agricultural aviation ground crew (mix rig and field team)
 - **Multi-sector expertise**: Government emergency response + higher education IT + humanitarian field deployment
 
 ## Cross-Cutting Themes (All Guides Include)

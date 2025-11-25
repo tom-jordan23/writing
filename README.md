@@ -86,6 +86,8 @@ The voice reflects specific professional experience:
 - Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
 - Federation standards: SAML and OIDC implementation enabling research and education collaboration
 - Emergency response: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton)
+- Emergency communications: HAM radio technician (KD9QIA), digital modes for field operations
+- Field operations: Agricultural aviation ground crew (mix rig and field team)
 - Multi-sector: government emergency response, higher education IT, humanitarian field operations
 
 This background shapes the voice—federated identity expertise, peer-to-peer community building, open source advocacy, appropriate technology principles, framework-based thinking, field-tested solutions. Your writing draws on different experience. The structural patterns (framework-based, evidence-driven, translation-friendly) transfer. The specific authority markers don't.

@@ -32,6 +32,8 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 - Open source implementation: OpenLDAP and OpenSSL deployment and community support
 - Federation standards: SAML and OIDC implementation in higher education contexts
 - Emergency responder: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton)
+- Emergency communications: HAM radio technician (KD9QIA), digital modes focus for field operations
+- Field operations: Agricultural aviation ground crew (mix rig and field team)
 - Multi-sector: Government emergency response + higher education IT + humanitarian field operations
 
 **Core voice characteristics**:
