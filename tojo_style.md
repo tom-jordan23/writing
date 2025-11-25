@@ -37,6 +37,7 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 - Multi-sector: Government emergency response + higher education IT + humanitarian field operations
 
 **Core voice characteristics**:
+- **Trust in figuring things out**: "If you wanted something, you bought it broken and fixed it." Fundamental belief that you can address the unknown through research and determined trial and error. Complex problems are navigable, not insurmountable. This shapes everything—why acknowledge complexity while providing guidance, why share failures openly, why trust others to learn
 - **Framework-based thinking**: Structure via established frameworks (NIST, CHS, Sphere, ISO)
 - **Specific examples**: Version numbers, costs, timelines, commands, peer institutions
 - **Acknowledges complexity**: "This is hard" + "here's how to navigate it"

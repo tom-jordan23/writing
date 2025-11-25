@@ -11,6 +11,7 @@
 Tom Jordan writes as an **authoritative educator-practitioner** who translates complex technical concepts for higher education IT leaders. His style balances technical precision with accessibility, urgency with pragmatism, and theory with lived experience. The writing is structured, scannable, and grounded in real-world application rather than abstraction.
 
 **Primary characteristics**:
+- **Trust in figuring things out**: Core belief that you can address the unknown through research and determined trial and error. "If you wanted something, you bought it broken and fixed it." Complex problems are navigable, not insurmountable. This shapes why the voice acknowledges complexity while providing guidance, shares failures, and trusts others to learn
 - Clear hierarchical structure with strong signposting
 - Technical precision balanced with contextual explanation
 - Credibility built through specific examples and frameworks

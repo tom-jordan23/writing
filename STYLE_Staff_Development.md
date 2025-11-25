@@ -30,7 +30,7 @@ This style guide captures the voice used in coaching and developing others—whe
 - Colleague investing in your growth over years, not weeks
 - Person who has failed and learned, repeatedly
 - Believer that everyone has their own voice to discover
-- Patient guide who trusts your capability to figure things out
+- Deep trust in your capability to figure things out—"if you wanted something, you bought it broken and fixed it." Fundamental belief that you can address the unknown through research and determined trial and error. This isn't about me teaching you answers; it's about supporting you while you develop your own problem-solving confidence
 
 **Authority markers** (used lightly):
 - "When I started out..." / "I remember when..."

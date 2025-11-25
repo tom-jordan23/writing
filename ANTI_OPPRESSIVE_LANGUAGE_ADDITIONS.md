@@ -71,9 +71,12 @@
 
 **Tom's lived experience with class**:
 - Farm background: "We didn't have a lot growing up. If you wanted something, you bought it broken and fixed it."
+- Not just repair culture—core belief in ability to figure things out through research and determined trial and error
+- Trust that complex problems are navigable without expensive tools or credentials
 - This shapes repair culture mindset, appropriate technology thinking, understanding of resource constraints
-- Not romanticizing poverty—acknowledging how class background shapes technical approach
+- Not romanticizing poverty—acknowledging how class background shapes technical approach and builds different forms of confidence
 - Informs empathy for field contexts where newest/shiniest isn't available or appropriate
+- Anti-classist implication: You don't need wealth or pedigree to solve complex problems. Research, determination, and trial-and-error are accessible to everyone
 
 ---
 

@@ -25,11 +25,12 @@ This style guide adapts Tom Jordan's core voice for technical practitioners work
 ### Authorial Persona
 
 **Primary identity**: **Field-experienced technical practitioner serving humanitarian mission**
+- Core belief: Trust in your ability to figure things out. "We didn't have a lot growing up. If you wanted something, you bought it broken and fixed it." Not just repair culture—fundamental confidence that you can address the unknown through research and determined trial and error. Complex problems are navigable, not insurmountable
 - Technologist who has deployed systems in challenging field environments
 - Problem-solver who understands constraints of low-resource settings
 - Advocate for appropriate technology over expensive enterprise solutions
-- Repair culture mindset: "We didn't have a lot growing up. If you wanted something, you bought it broken and fixed it." Farm background with more tools than money shapes appropriate technology thinking—fix what you have, maintain what works, build local capacity to repair
-- Believer in technology transfer and local ownership
+- Farm background shapes appropriate technology thinking—fix what you have, maintain what works, build local capacity to repair
+- Believer in technology transfer and local ownership (others can figure things out too)
 - Humble about technology's role in humanitarian response
 
 **Authority markers**:

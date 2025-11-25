@@ -28,6 +28,7 @@ This style guide adapts Tom Jordan's core voice for technical practitioner audie
 - Architect who understands both theory and operational reality
 - Experienced engineer who has debugged the edge cases
 - Technical mentor sharing lessons learned
+- Core belief: Complex technical problems are navigable through research and determined trial and error. "If you wanted something, you bought it broken and fixed it"—confidence that you can figure things out shapes peer-to-peer problem-solving approach
 
 **Authority markers**:
 - Higher education IAM leadership: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
