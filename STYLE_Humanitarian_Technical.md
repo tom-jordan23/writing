@@ -44,7 +44,8 @@ This style guide adapts Tom Jordan's core voice for technical practitioners work
 - Search and rescue operations: Civil Air Patrol mission pilot (2001-2005), GPS navigation, aerial reconnaissance, SAR communications
 - Emergency operations technology: Data center operations for police/emergency management coordination, critical infrastructure resilience
 - SIMS deployment experience: Remote IM support for Hurricane Beryl (Grenada), Ebola #16 (DRC)
-- Domestic disaster response: In-person deployment Hurricanes Helene/Milton (multi-state coordination)
+- American Red Cross international deployments: Indonesia river monitoring (Jakarta/Sukabumi City, October 2025)—OpenRiverCam open source technology with PMI (Indonesian Red Cross) and Delft University partnership for flood early warning; Hurricanes Helene/Milton (multi-state coordination)
+- Appropriate technology deployment: OpenRiverCam river monitoring using open source computer vision for flood prediction in resource-constrained contexts
 - Government emergency coordination: Federal (post-9/11 operations), state, county, university multi-agency technical support
 - Field operations background: Agricultural aviation ground crew (mix rig and field team—chemical handling, logistics, safety protocols in field conditions)
 - Diverse operational contexts: Island infrastructure (95% homes destroyed), disease outbreak coordination, mass shelter operations, search and rescue

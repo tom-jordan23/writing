@@ -38,6 +38,7 @@ This style guide adapts Tom Jordan's core voice for technical practitioner audie
 - Federation standards: SAML and OIDC implementation enabling research and education collaboration
 - Emergency communications: HAM radio technician (KD9QIA), digital modes (understanding RF, protocols, data communications)
 - Emergency operations experience: Data center operations supporting university/county/state police coordination, critical infrastructure during emergencies
+- American Red Cross international: Indonesia river monitoring (October 2025)—OpenRiverCam open source computer vision deployment with PMI/Delft University for flood early warning systems
 - Search and rescue background: Civil Air Patrol mission pilot (2001-2005), multi-agency coordination, federal/state/local integration
 - Specific implementation experience: "In our production environment," "When implementing this at scale," "During emergency operations..."
 - Technical precision: Exact version numbers, command syntax, configuration parameters

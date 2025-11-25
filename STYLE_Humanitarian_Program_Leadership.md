@@ -38,7 +38,7 @@ This style guide adapts Tom Jordan's core voice for humanitarian program leaders
 - Federation standards: SAML and OIDC implementation enabling research and education collaboration
 - Search and rescue operations: Civil Air Patrol mission pilot (2001-2005), aerial reconnaissance, multi-agency SAR coordination
 - SIMS deployment experience: Remote IM coordination for Hurricane Beryl (Grenada), Ebola #16 (DRC)
-- Domestic disaster response: In-person deployment Hurricanes Helene/Milton (FL, GA, NC, SC, TN)
+- American Red Cross international deployments: Indonesia river monitoring (Jakarta/Sukabumi City, October 2025)—OpenRiverCam partnership with PMI and Delft University for flood early warning systems; Hurricanes Helene/Milton (FL, GA, NC, SC, TN)
 - Emergency operations coordination: University data center manager supporting police/emergency management, incident command support
 - Field operations background: Agricultural aviation ground crew (mix rig and field team—logistics, chemical handling, field safety in operational environments)
 - Operational scale awareness: 1,900+ responder deployments, 80,000+ people sheltered, island nation logistics, SAR missions

@@ -85,7 +85,7 @@ The voice reflects specific professional experience:
 - 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration across the UW System
 - Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
 - Federation standards: SAML and OIDC implementation enabling research and education collaboration
-- Emergency response: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton)
+- Emergency response: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton, Indonesia river monitoring October 2025)
 - Emergency communications: HAM radio technician (KD9QIA), digital modes for field operations
 - Field operations: Agricultural aviation ground crew (mix rig and field team)
 - Multi-sector: government emergency response, higher education IT, humanitarian field operations
