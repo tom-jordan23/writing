@@ -166,8 +166,8 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 
 **Conversational elements**:
 - Contractions: Rare but present ("doesn't," "it's")
-- Colloquial expressions in quotes: "jump ship," "through its paces," "put the same rigor"
 - Direct address to reader: "your organization," "your IT department"
+- Clear, direct language (avoids idioms for cross-linguistic accessibility)
 
 ### Domain-Specific Terminology
 
@@ -226,7 +226,7 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 
 **Concrete over abstract**:
 - "threat actors move laterally" not "lateral movement occurs"
-- "staffers jump ship" not "turnover increases"
+- "staff leave for other opportunities" not "turnover increases"
 - "plans need to be tested" not "testing is necessary"
 
 **Verbs of action**:
@@ -248,12 +248,15 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 
 **Authority markers**:
 - Byline identification: "Solutions architect at the University of Wisconsin–Madison"
+- Open source contributions: Code contributions to OpenLDAP and OpenSSL (foundational infrastructure projects)
+- Standards development: Contributed to SAML and OIDC standards (identity federation and authentication protocols)
+- Community leadership: Decades mentoring higher education open source community
 - Specific frameworks referenced by name and number
 - Historical context provided (Heartbleed Bug, Conway's Law)
 - "We" when referring to higher ed community
 
 **Humility markers**:
-- Acknowledges complexity: "daunting challenge," "difficult to put the same rigor"
+- Acknowledges complexity: "daunting challenge," "difficult to maintain the same standards"
 - Recognizes limitations: "may lack clear upgrade paths"
 - Avoids absolute statements: Uses "often," "typically," "can"
 
@@ -654,7 +657,7 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 
 **Anecdotal elements** (minimal but effective):
 - References lived experience: "Your IT department may already participate"
-- Acknowledges common scenarios: "staffers jump ship for more exciting opportunities"
+- Acknowledges common scenarios: "staff leave for more exciting opportunities"
 - Points to shared experiences: COVID-19 impact on higher ed
 
 **Example structure**:
