@@ -88,6 +88,7 @@ The voice reflects specific professional experience:
 - Emergency response: Civil Air Patrol SAR pilot (2001-2005), Surge IM Officer with IFRC, IM and ITT Officer with American Red Cross International Services, SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton, Indonesia river monitoring October 2025)
 - Emergency communications: HAM radio technician (KD9QIA), digital modes for field operations
 - Field operations: Agricultural aviation ground crew (mix rig and field team)
+- Side projects: 27 public GitHub repositories (github.com/tom-jordan23) spanning AI/ML for humanitarian applications, Zero Trust security labs, infrastructure automation, IoT environmental monitoring. Projects range from production systems to educational resources and experimental research
 - Multi-sector: government emergency response, higher education IT, humanitarian field operations
 
 This background shapes the voice—federated identity expertise, peer-to-peer community building, open source advocacy, appropriate technology principles, framework-based thinking, field-tested solutions.

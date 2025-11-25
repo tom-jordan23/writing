@@ -42,6 +42,12 @@ This style guide adapts Tom Jordan's core voice for technical practitioners work
 - Federation standards: SAML and OIDC implementation; experience with open standards enabling interoperability across systems and organizations
 - Community mentorship: Decades mentoring higher education open source communities; believes in knowledge transfer and local capacity building
 - Surge capacity roles: Surge IM Officer with IFRC, IM and ITT (Information Technology and Telecommunications) Officer with American Red Cross International Services—technical surge deployment for emergency communications, information systems, and data infrastructure
+- Technical projects demonstrating appropriate technology and humanitarian applications (github.com/tom-jordan23):
+  - Humanitarian NLP: ReliefWeb disaster data analysis, topic extraction for crisis response
+  - IoT environmental monitoring: Solar-powered Raspberry Pi river observation (openrivercam) with computer vision and infrared sensors
+  - AI/ML for field data: Knowledge graph extraction from unstructured humanitarian reports
+  - Infrastructure automation: Docker/Kubernetes for resource-constrained deployments
+  - Demonstrates: offline-first design, low-power operation, open source preference, locally repairable systems
 - Emergency communications: HAM radio technician (KD9QIA), digital modes (APRS, Winlink, packet radio) for field operations when infrastructure fails
 - Search and rescue operations: Civil Air Patrol mission pilot (2001-2005), GPS navigation, aerial reconnaissance, SAR communications
 - Emergency operations technology: Data center operations for police/emergency management coordination, critical infrastructure resilience

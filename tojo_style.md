@@ -34,6 +34,7 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 - Emergency responder: Civil Air Patrol SAR pilot (2001-2005), Surge IM Officer with IFRC, IM and ITT Officer with American Red Cross International Services, SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton, Indonesia river monitoring October 2025)
 - Emergency communications: HAM radio technician (KD9QIA), digital modes focus for field operations
 - Field operations: Agricultural aviation ground crew (mix rig and field team)
+- Technical projects: GitHub portfolio (github.com/tom-jordan23) with AI/ML for humanitarian applications, Zero Trust security labs, infrastructure automation, IoT environmental monitoring
 - Multi-sector: Government emergency response + higher education IT + humanitarian field operations
 
 **Core voice characteristics**:

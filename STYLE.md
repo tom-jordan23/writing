@@ -259,6 +259,7 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 - Field operations background: Agricultural aviation ground crew (mix rig and field team—chemical handling, logistics, safety protocols)
 - Surge capacity roles: Surge IM Officer with IFRC, IM and ITT Officer with American Red Cross International Services
 - International deployments: American Red Cross (Hurricanes Helene/Milton, Indonesia river monitoring with PMI/Delft University partnership October 2025), SIMS (Hurricane Beryl/Grenada, Ebola #16/DRC)
+- Technical projects: 27 public GitHub repositories demonstrating AI/ML (NLP for humanitarian data, knowledge graphs, RAG implementations), Zero Trust security (SASE architecture labs, OAuth integration), infrastructure automation (Terraform, Docker/Kubernetes), IoT environmental monitoring (solar-powered river observation)
 - Specific frameworks referenced by name and number
 - Historical context provided (Heartbleed Bug, Conway's Law)
 - "We" when referring to higher ed community

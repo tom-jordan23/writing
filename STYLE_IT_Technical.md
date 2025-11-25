@@ -38,6 +38,12 @@ This style guide adapts Tom Jordan's core voice for technical practitioner audie
 - Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
 - Federation standards: SAML and OIDC implementation enabling research and education collaboration
 - Surge capacity roles: IM and ITT (Information Technology and Telecommunications) Officer with American Red Cross International Services, Surge IM Officer with IFRC—rapid deployment technical surge capacity for emergency operations
+- Technical projects: 27 public GitHub repositories (github.com/tom-jordan23) demonstrating production-ready implementations and experimental research:
+  - AI/ML: NLP for humanitarian data (ReliefWeb analysis), knowledge graphs (Neo4j, GraphRAG), RAG implementations (multiple vector databases)
+  - Zero Trust security: SASE architecture lab (ztlab), OAuth Device Flow for SSH, Keycloak/AD integration
+  - Infrastructure automation: Terraform, Packer, Docker/Kubernetes, multi-environment deployments
+  - IoT: Solar-powered Raspberry Pi river monitoring (openrivercam), camera/sensor integration
+  - Projects range from production MCP servers to educational security labs to experimental ML research
 - Emergency communications: HAM radio technician (KD9QIA), digital modes (understanding RF, protocols, data communications)
 - Emergency operations experience: Data center operations supporting university/county/state police coordination, critical infrastructure during emergencies
 - American Red Cross international: Indonesia river monitoring (October 2025)—OpenRiverCam open source computer vision deployment with PMI/Delft University for flood early warning systems
