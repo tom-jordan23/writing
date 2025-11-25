@@ -4,7 +4,30 @@ This guide explains how to integrate these style guides into different AI platfo
 
 ---
 
-## Option 1: ChatGPT Custom Instructions (Simplest)
+## Option 1: Single URL (Fastest and Simplest)
+
+**Best for**: Quick setup, any ChatGPT conversation, immediate use
+
+**Setup**: None required
+
+**Usage**:
+1. Copy this URL: `https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md`
+2. Paste into any ChatGPT conversation
+3. Say: "Write about [topic] for [audience] using Tom Jordan's style from this guide"
+
+**What it includes**: Condensed guidance for all 8 audiences (IT Executive, IT Technical, Academic, Humanitarian Executive/Program/Technical, Staff Development, Base) with routing logic
+
+**Advantages**:
+- Zero setup time
+- Works in any GPT conversation
+- Covers all audiences in one file
+- Always up-to-date from GitHub
+
+**Limitations**: Condensed version (~500 lines); less detailed than full audience guides
+
+---
+
+## Option 2: ChatGPT Custom Instructions
 
 **Best for**: Quick daily writing tasks, short pieces
 
@@ -48,7 +71,7 @@ Always ask what audience before writing.
 
 ---
 
-## Option 2: ChatGPT with File Upload (Recommended for longer pieces)
+## Option 3: ChatGPT with File Upload (Recommended for longer pieces)
 
 **Best for**: Articles, technical documentation, substantial writing
 
@@ -80,7 +103,7 @@ ChatGPT: [Adapts to strategic, concise IT Executive style]
 
 ---
 
-## Option 3: Custom GPT (Best for repeated use)
+## Option 4: Custom GPT (Best for repeated use)
 
 **Best for**: Dedicated writing assistant you use regularly
 
@@ -145,7 +168,7 @@ Before writing, always ask: "What is your primary audience for this piece?"
 
 ---
 
-## Option 4: Claude Projects (For Claude users)
+## Option 5: Claude Projects (For Claude users)
 
 **Best for**: Long-form writing, complex documents
 
@@ -183,7 +206,7 @@ Always reference the uploaded style guides for detailed guidance.
 
 ---
 
-## Option 5: API Integration (For developers)
+## Option 6: API Integration (For developers)
 
 **Best for**: Automated writing workflows, bulk generation
 

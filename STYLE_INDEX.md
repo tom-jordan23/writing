@@ -42,6 +42,11 @@ Tom Jordan's credibility stems from:
 ## File Structure
 
 ```
+# Quick integration
+tojo_style.md                               # Single-URL condensed guide (all 8 audiences, ~500 lines)
+                                            # Use: https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md
+
+# Detailed audience-specific guides
 STYLE.md                                    # Base style guide (1,360 lines)
 STYLE_IT_Executive.md                       # Strategic IT leadership (~700 lines)
 STYLE_IT_Technical.md                       # Technical practitioners (~1,120 lines)
@@ -61,9 +66,18 @@ LANGUAGE_ACCESSIBILITY_SUMMARY.md
 
 ## How to Use This with AI Assistants
 
-### For ChatGPT/Claude with file upload:
-1. Upload this index file first
-2. Upload the relevant audience-specific guide
+### Quick Use (30 seconds):
+**Paste this URL into any ChatGPT conversation**:
+```
+https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md
+```
+Then say: "Write about [topic] for [audience] using Tom Jordan's style"
+
+The condensed guide (tojo_style.md) includes all 8 audiences with routing logic.
+
+### Detailed Use (for longer/complex work):
+1. Upload this index file (STYLE_INDEX.md)
+2. Upload the relevant audience-specific guide (e.g., STYLE_IT_Technical.md)
 3. Prompt: "Write [topic] using the style guide provided, for [audience]"
 
 ### For ChatGPT Custom Instructions:
@@ -73,7 +87,8 @@ Use the condensed prompt (see `STYLE_PROMPT_CONDENSED.md`)
 Upload all guides to knowledge base; GPT will retrieve relevant sections
 
 ### For API/Programmatic Use:
-Use `STYLE_INDEX.md` to route to appropriate guide based on audience parameter
+- Quick: Fetch tojo_style.md from GitHub raw URL
+- Detailed: Use STYLE_INDEX.md to route to appropriate guide based on audience parameter
 
 ## Selection Decision Tree
 

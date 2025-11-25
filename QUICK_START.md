@@ -4,7 +4,32 @@
 
 ---
 
-## Method 1: ChatGPT File Upload (Fastest)
+## Method 1: Single URL Paste (Fastest - 30 seconds)
+
+**Best for**: Quick setup, any GPT chat, immediate use
+
+1. **Copy this URL**:
+   ```
+   https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md
+   ```
+
+2. **Paste into any ChatGPT conversation**
+
+3. **Say**: "Write about [topic] for [audience] using Tom Jordan's style from this guide"
+
+4. **Done!** The condensed guide (all 8 audiences) routes automatically.
+
+**Example**:
+```
+[Paste URL]
+
+Write a technical guide on Shibboleth federation for systems engineers
+using Tom Jordan's style.
+```
+
+---
+
+## Method 2: Detailed File Upload (2 minutes)
 
 1. **Start a new ChatGPT conversation**
 
@@ -35,7 +60,9 @@ Use Tom Jordan's style from the uploaded guides.
 
 ---
 
-## Method 2: Claude Projects (Best for ongoing work)
+---
+
+## Method 3: Claude Projects (Best for ongoing work)
 
 1. **Create new Project** in Claude
 
