@@ -73,9 +73,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 > "Implementing zero-trust architecture is important for modern security. Organizations should consider this approach. It requires careful planning and coordination."
 
 **Tom Jordan IT Executive voice**:
-> "Zero-trust architecture addresses a fundamental shift—perimeter-based security assumes internal users are trustworthy, an assumption that fails when credential theft provides threat actors initial access. Implementation requires three decisions: defining your protect surface (critical data requiring strongest controls), selecting architecture approach (NIST SP 800-207 provides frameworks), and planning migration (peer institutions report 12-18 months). Initial investment: $200K-$500K depending on infrastructure. ROI comes through reduced breach impact—Ponemon data shows $4.24M average breach cost, making this risk mitigation rather than technical upgrade."
+> "Zero-trust architecture addresses a fundamental shift—perimeter-based security assumes internal users are trustworthy, an assumption that fails when credential theft provides threat actors initial access. Implementation requires three decisions: defining your protect surface (critical data requiring strongest controls), selecting architecture approach (NIST SP 800-207 provides frameworks), and planning migration (industry implementations typically require 12-24 months). Initial investment varies significantly by existing infrastructure—estimate $200K-$500K for mid-sized institutions. ROI comes through reduced breach impact—Ponemon 2024 data shows $4.88M average breach cost, making this risk mitigation rather than technical upgrade."
 
-**What changed**: Framework reference (NIST), specific timelines (12-18 months), peer evidence, cost ranges ($200K-$500K), ROI data (Ponemon $4.24M), em-dash clarifications, strategic framing (risk mitigation vs. technical upgrade).
+**What changed**: Framework reference (NIST), realistic timelines (12-24 months), cost estimates clearly marked as estimates, current ROI data (Ponemon 2024: $4.88M), em-dash clarifications, strategic framing (risk mitigation vs. technical upgrade).
 
 ---
 
@@ -85,9 +85,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 > "Mobile data collection tools help field teams gather information efficiently. There are many good options available. Teams should choose based on their needs."
 
 **Tom Jordan Humanitarian Technical voice**:
-> "KoBoToolbox (free, offline-capable, 50W laptop power draw) provides form-based data collection without internet dependency. Tested across 15 IFRC country operations—setup time 2-4 hours, field staff training 1 day. Alternative: ODK Collect (open source, Android, works on $80 devices). Both support: GPS tagging, photo capture, offline storage, bulk upload when connectivity available. Total cost including hardware: $200-$400 per data collector. Power consideration: 50W laptop requires 100W solar panel for full-day field use; Android devices (5W) work with 20W panels."
+> "KoBoToolbox (free, offline-capable) provides form-based data collection without internet dependency. Widely used across IFRC and NGO operations—typical setup time 2-4 hours, field staff training 1 day. Alternative: ODK Collect (open source, Android, works on low-cost devices $50-150). Both support: GPS tagging, photo capture, offline storage, bulk upload when connectivity available. Typical cost including hardware: $200-$400 per data collector depending on device choice. Power consideration: Laptops (40-60W) require 80-120W solar panel for full-day field use; Android devices (5-10W) work with 20-40W panels depending on screen size and usage."
 
-**What changed**: Specific tools (KoBoToolbox, ODK Collect), exact costs ($80 devices, $200-$400 total), power specifications (50W, 5W, solar panel sizing), offline-first emphasis, deployment experience (15 operations), timeline specifics (2-4 hours, 1 day), appropriate technology principles (open source, locally available hardware).
+**What changed**: Specific tools (KoBoToolbox, ODK Collect), realistic cost ranges clearly marked as typical, power specifications as ranges accounting for device variation, offline-first emphasis, deployment experience (widely used in humanitarian sector), realistic timeline estimates, appropriate technology principles (open source, locally available hardware).
 
 ---
 
@@ -109,9 +109,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 > "Universities should implement single sign-on to improve user experience. This technology makes accessing systems easier. IT departments should work with faculty to deploy this."
 
 **Tom Jordan Academic voice**:
-> "Single sign-on enables students and faculty to access multiple systems—learning management platforms, library resources, research tools—using their institutional credentials. This supports pedagogical flexibility: faculty can integrate diverse tools without students managing separate passwords for each resource. Peer institutions report implementation considerations: Michigan and Illinois found faculty consultation during tool selection increased adoption; Wisconsin's approach respects departmental autonomy in choosing research platforms while providing authentication infrastructure. Shared governance matters here—IT provides secure authentication framework, faculty and academic units determine which tools serve their mission. Implementation through existing governance: Academic Technology Committee reviews tools for mission alignment, IT implements technical integration. Student success improves when authentication barriers don't limit pedagogical choice."
+> "Single sign-on enables students and faculty to access multiple systems—learning management platforms, library resources, research tools—using their institutional credentials. This supports pedagogical flexibility: faculty can integrate diverse tools without students managing separate passwords for each resource. Peer institutions report that faculty consultation during tool selection increases adoption; successful approaches respect departmental autonomy in choosing research platforms while providing centralized authentication infrastructure. Shared governance matters here—IT provides secure authentication framework, faculty and academic units determine which tools serve their mission. Implementation through existing governance: Academic Technology Committee reviews tools for mission alignment, IT implements technical integration. Student success improves when authentication barriers don't limit pedagogical choice."
 
-**What changed**: Mission framing (pedagogical flexibility, student success), shared governance respect (consultation not directive), peer institution examples (Michigan, Illinois, Wisconsin), collaborative language ("IT provides... faculty determine"), governance mechanisms (Academic Technology Committee), emphasis on serving academic mission rather than technical convenience.
+**What changed**: Mission framing (pedagogical flexibility, student success), shared governance respect (consultation not directive), peer institution patterns without unsupported specifics, collaborative language ("IT provides... faculty determine"), governance mechanisms (Academic Technology Committee), emphasis on serving academic mission rather than technical convenience.
 
 ---
 
@@ -129,8 +129,9 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 
 ### 3. Making Up Data or Peer Institutions
 - ❌ "Studies show..." (which studies?), "Most organizations..." (which organizations?), "Leading universities..." (name them)
-- ✅ Specific citations: "Ponemon 2023 data," "Michigan and Illinois implementations," "IFRC Surge IM deployment experience"
-- ✅ If you don't have real data, clearly mark: "Estimate based on [reasoning]" or "Varies by context—evaluate based on your [factors]"
+- ✅ Specific citations only when verifiable: "Ponemon 2024 data," "Verizon DBIR 2024," "IFRC Surge IM deployment experience"
+- ✅ If you don't have real data, clearly mark: "Typical estimate based on [reasoning]" or "Varies significantly by context—evaluate based on your [factors]"
+- ✅ Use ranges for costs/timelines rather than false precision: "4-8 months" not "6 months" unless you have specific data
 
 ### 4. Missing Framework Grounding
 - ❌ Jumping straight to solutions without establishing framework foundation
@@ -189,7 +190,7 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 **Avoid**: Technical implementation details (leave to technical staff)
 
 **Example voice**:
-> "Multi-factor authentication reduces credential-based compromise—Verizon DBIR data shows 81% of breaches involve stolen credentials. Implementation at peer institutions (Michigan, Illinois, Wisconsin) reports 4-6 month timelines, $3/user/month recurring cost, 15-20% initial helpdesk volume increase. ROI appears within first prevented incident—average breach cost $4.24M according to Ponemon. Board-level question: what's our risk appetite for credential-based access to student records and research data?"
+> "Multi-factor authentication reduces credential-based compromise—Verizon DBIR consistently reports stolen credentials as the primary breach vector. Higher education implementations typically require 4-8 months including user communication and helpdesk preparation. Costs vary: cloud-based MFA services range $3-6/user/month; expect initial helpdesk volume increase during rollout. ROI comes through reduced breach impact—Ponemon 2024 data shows $4.88M average breach cost. Board-level question: what's our risk appetite for credential-based access to student records and research data?"
 
 ---
 
@@ -217,7 +218,7 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 **Structure**: Problem → Framework → Implementation → Troubleshooting → Resources
 
 **Example voice**:
-> "LDAP connection pooling in Shibboleth IdP 4.3+ reduces authentication latency and prevents connection exhaustion under load. Configuration in ldap.properties: `idp.pool.LDAP.minPoolSize = 3`, `idp.pool.LDAP.maxPoolSize = 20`, `idp.pool.LDAP.blockWaitTime = 5000`. Monitor pool metrics via Prometheus exporter—watch `ldap_pool_active_connections` and `ldap_pool_idle_connections`. Tested with 50,000 authentications/day at UW-Madison—median latency < 100ms, p99 < 500ms. Troubleshooting: if seeing connection timeouts, check LDAP server `maxConnections` limit (default 1024 on OpenLDAP 2.5) and network MTU settings between IdP and LDAP servers."
+> "LDAP connection pooling in Shibboleth IdP 4.3+ reduces authentication latency and prevents connection exhaustion under load. Configuration in ldap.properties: `idp.pool.LDAP.minPoolSize = 3`, `idp.pool.LDAP.maxPoolSize = 20`, `idp.pool.LDAP.blockWaitTime = 5000`. Monitor pool metrics via Prometheus exporter—watch `ldap_pool_active_connections` and `ldap_pool_idle_connections`. Tested at university scale (tens of thousands of authentications daily)—target median latency < 100ms, p99 < 500ms. Troubleshooting: if seeing connection timeouts, check LDAP server connection limits (configured via olcConnMaxPending in OpenLDAP, varies by deployment) and network MTU settings between IdP and LDAP servers."
 
 ---
 
@@ -245,7 +246,7 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 **Avoid**: Top-down directives, corporate language, treating faculty as users
 
 **Example voice**:
-> "Research data storage requires balancing several concerns: faculty autonomy in methodology, student access for collaborative work, compliance requirements (FERPA, export control, IRB), and long-term preservation. Peer institutions demonstrate different approaches: Michigan provides departmental storage with faculty governance over access policies; Illinois centralized research data management while preserving faculty control of sharing decisions. Our Academic Technology Committee might consider: what governance structure respects faculty research autonomy while addressing institutional compliance obligations? IT can provide secure infrastructure and policy implementation; faculty and departments determine what serves their research mission."
+> "Research data storage requires balancing several concerns: faculty autonomy in methodology, student access for collaborative work, compliance requirements (FERPA, export control, IRB), and long-term preservation. Peer institutions demonstrate different approaches—some provide departmental storage with faculty governance over access policies, others centralize research data management while preserving faculty control of sharing decisions. Our Academic Technology Committee might consider: what governance structure respects faculty research autonomy while addressing institutional compliance obligations? IT can provide secure infrastructure and policy implementation; faculty and departments determine what serves their research mission."
 
 ---
 
@@ -334,7 +335,7 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 **Critical**: Documentation must translate clearly—field technicians using Google Translate
 
 **Example voice**:
-> "Offline mapping for distribution planning: OSMAnd (free, Android, works on $60 Tecno phones common in West Africa) provides GPS navigation and mapping without internet. Preparation: download OpenStreetMap tiles for area of operations (500MB for typical country operation). Field use: mark distribution points via GPS waypoint (long-press on map), add photos and notes, sync via USB when returning to office (no cloud dependency). Power: 3W draw—charges via 10W solar panel or vehicle USB. Alternative: Maps.me (similar features, different interface). Both: open source data (OpenStreetMap), no vendor lock-in, works on locally available hardware, repairable by field IT staff familiar with Android. Tested: Hurricane Beryl response in Grenada, Ebola #16 in DRC. Total cost: $60 device + $10 solar panel + $0 software = $70 per mapper."
+> "Offline mapping for distribution planning: OSMAnd (free, Android, works on low-cost devices common in field contexts) provides GPS navigation and mapping without internet. Preparation: download OpenStreetMap tiles for area of operations (typically 300-800MB depending on area size). Field use: mark distribution points via GPS waypoint (long-press on map), add photos and notes, sync via USB when returning to office (no cloud dependency). Power: typical 1-2W active use—charges via small solar panel (10-20W) or vehicle USB. Alternative: Maps.me (similar features, different interface). Both: open source data (OpenStreetMap), no vendor lock-in, works on locally available hardware, repairable by field IT staff familiar with Android. Tested: Hurricane Beryl response in Grenada, Ebola response in DRC. Typical cost: $50-100 device + $10-20 solar panel + $0 software = $60-120 per mapper."
 
 ---
 
