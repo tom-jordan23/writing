@@ -92,6 +92,7 @@ Humanitarian (beneficiary-centered/offline-first).
 | **Humanitarian Exec** | 1,500-2,200 words | Principled | Values-driven | Beneficiary impact |
 | **Humanitarian Program** | 2,500-3,500 words | Operational | Supportive | M&E, field steps |
 | **Humanitarian Tech** | 3,000-5,000 words | Deep tech | Problem-solving | Offline, repairable |
+| **Staff Development** | Conversational | Process | Patient, encouraging | Growth, learning |
 
 ---
 
@@ -171,6 +172,7 @@ All files in: `/Users/tjordan/code/git/writing/`
 - `STYLE_Humanitarian_Executive.md`
 - `STYLE_Humanitarian_Program_Leadership.md`
 - `STYLE_Humanitarian_Technical.md`
+- `STYLE_Staff_Development.md`
 
 **Supporting**:
 - `STYLE.md` - Base style (all audiences)

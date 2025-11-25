@@ -23,6 +23,7 @@ Choose the guide that matches your primary audience:
 | Humanitarian organization leadership | `STYLE_Humanitarian_Executive.md` | Beneficiary impact, humanitarian principles |
 | Country directors, program managers | `STYLE_Humanitarian_Program_Leadership.md` | Field operations, M&E frameworks |
 | Field ICT officers, technical coordinators | `STYLE_Humanitarian_Technical.md` | Appropriate technology, offline-first design |
+| Direct reports, mentees, anyone you're coaching | `STYLE_Staff_Development.md` | Growth, learning, developmental conversations |
 | General or mixed audience | `STYLE.md` | Base style applicable across contexts |
 
 ## Using with AI Assistants
@@ -133,3 +134,9 @@ Version control through git enables tracking changes and reverting if needed.
 The style captured here reflects specific professional background and values. When using these guides, consider whether the voice fits your context. The technical patterns (structure, evidence, clarity) transfer broadly. The specific authority markers (deployment experience, standards work, community leadership) are contextual to this particular professional history.
 
 If writing for audiences unfamiliar with the background, you may need to establish credibility through different evidence sources while maintaining the structural and tonal patterns.
+
+## For Those Developing Their Own Voice
+
+The `STYLE_Staff_Development.md` guide is for anyone on a professional growth journey—whether you're learning to write in this style, developing your own voice, or mentoring others. Young or old, early career or experienced, if you're on this path: god bless. Your voice matters. Your perspective adds value. You don't need to copy—build on what's useful, leave what doesn't fit, create something that's yours.
+
+These guides welcome contribution. Your additions make them richer. Your questions make them clearer. Your experience fills gaps that can't be seen from a single perspective. Everyone is welcome here.

@@ -12,6 +12,7 @@
 - **NGO directors, humanitarian leadership** → Use `STYLE_Humanitarian_Executive.md`
 - **Country directors, program managers, M&E leads** → Use `STYLE_Humanitarian_Program_Leadership.md`
 - **Field ICT officers, technical coordinators in humanitarian contexts** → Use `STYLE_Humanitarian_Technical.md`
+- **Direct reports, mentees, anyone you're coaching/developing** → Use `STYLE_Staff_Development.md`
 - **General/uncertain audience** → Use base `STYLE.md`
 
 ## Core Authority Markers (All Guides)
@@ -48,6 +49,7 @@ STYLE_Academic_University_Business.md       # Academic leadership (~885 lines)
 STYLE_Humanitarian_Executive.md             # Humanitarian leadership (~865 lines)
 STYLE_Humanitarian_Program_Leadership.md    # Field operations (~877 lines)
 STYLE_Humanitarian_Technical.md             # Field technical (~1,423 lines)
+STYLE_Staff_Development.md                  # Coaching & mentoring (~950 lines)
 
 # Supporting frameworks (optional deep reading)
 HISTORICAL_CONTEXT_FRAMEWORK.md
@@ -95,13 +97,13 @@ START: What are you writing?
 
 ## Key Adaptations by Audience
 
-| Aspect | IT Exec | IT Tech | Academic | Hum Exec | Hum Program | Hum Tech |
-|--------|---------|---------|----------|----------|-------------|----------|
-| **Depth** | Strategic | Deep technical | Mission-first | Strategic | Operational | Deep technical |
-| **Length** | Concise | Comprehensive | Deliberative | Concise | Detailed steps | Comprehensive |
-| **Tone** | Decisive | Peer-to-peer | Consultative | Principled | Supportive | Problem-solving |
-| **Evidence** | Business metrics | Benchmarks | Peer institutions | Impact data | Field experience | Tested solutions |
-| **Focus** | ROI, risk | Implementation | Mission alignment | Beneficiary impact | Team enablement | Appropriate tech |
+| Aspect | IT Exec | IT Tech | Academic | Hum Exec | Hum Program | Hum Tech | Staff Dev |
+|--------|---------|---------|----------|----------|-------------|----------|-----------|
+| **Depth** | Strategic | Deep technical | Mission-first | Strategic | Operational | Deep technical | Process-focused |
+| **Length** | Concise | Comprehensive | Deliberative | Concise | Detailed steps | Comprehensive | Conversational |
+| **Tone** | Decisive | Peer-to-peer | Consultative | Principled | Supportive | Problem-solving | Patient, encouraging |
+| **Evidence** | Business metrics | Benchmarks | Peer institutions | Impact data | Field experience | Tested solutions | Personal stories |
+| **Focus** | ROI, risk | Implementation | Mission alignment | Beneficiary impact | Team enablement | Appropriate tech | Growth, learning |
 
 ## Quick Reference: Avoid in ALL Contexts
 

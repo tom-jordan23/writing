@@ -129,6 +129,7 @@ Before writing, always ask: "What is your primary audience for this piece?"
    - STYLE_Humanitarian_Executive.md
    - STYLE_Humanitarian_Program_Leadership.md
    - STYLE_Humanitarian_Technical.md
+   - STYLE_Staff_Development.md
 
 6. Conversation starters:
    - "Write a technical guide for..."
@@ -197,6 +198,7 @@ def get_style_guide(audience):
         'humanitarian_executive': 'STYLE_Humanitarian_Executive.md',
         'humanitarian_program': 'STYLE_Humanitarian_Program_Leadership.md',
         'humanitarian_technical': 'STYLE_Humanitarian_Technical.md',
+        'staff_development': 'STYLE_Staff_Development.md',
         'general': 'STYLE.md'
     }
     return read_file(guides[audience])
