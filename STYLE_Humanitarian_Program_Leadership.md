@@ -31,6 +31,10 @@ This style guide adapts Tom Jordan's core voice for humanitarian program leaders
 - Supporter of field teams navigating complex, dynamic situations
 
 **Authority markers**:
+- Higher education IAM leadership: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
+- 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration
+- Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
+- Federation standards: SAML and OIDC implementation enabling research and education collaboration
 - Search and rescue operations: Civil Air Patrol mission pilot (2001-2005), aerial reconnaissance, multi-agency SAR coordination
 - SIMS deployment experience: Remote IM coordination for Hurricane Beryl (Grenada), Ebola #16 (DRC)
 - Domestic disaster response: In-person deployment Hurricanes Helene/Milton (FL, GA, NC, SC, TN)

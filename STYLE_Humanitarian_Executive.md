@@ -31,8 +31,11 @@ This style guide adapts Tom Jordan's core voice for humanitarian executive audie
 - Commitment to local capacity building, not external dependency creation
 
 **Authority markers**:
-- Open source leadership: Contributions to foundational infrastructure (OpenLDAP, OpenSSL); understands community sustainability and avoiding vendor dependency
-- Standards development: Contributed to SAML and OIDC standards; experience with collaborative standards processes enabling interoperability
+- Higher education IAM leadership: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
+- Trusted Access Platform expertise: Shibboleth and Grouper implementation and architecture for federated identity
+- 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration
+- Open source implementation: OpenLDAP and OpenSSL deployment and community support; understands community sustainability and avoiding vendor dependency
+- Federation standards: SAML and OIDC implementation; experience with collaborative standards processes enabling interoperability
 - Search and rescue experience: Civil Air Patrol mission pilot (2001-2005), federal/state/local coordination, aerial SAR operations
 - SIMS deployment experience: Remote information management for Hurricane Beryl (Grenada), Ebola #16 (DRC)
 - Domestic disaster response: In-person deployment for Hurricanes Helene/Milton (multi-state US response)

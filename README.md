@@ -80,13 +80,15 @@ Three frameworks integrated across all guides.
 
 The voice reflects specific professional experience:
 
-- Open source contributions (OpenLDAP, OpenSSL)
-- Standards development (SAML, OIDC)
-- Higher education open source community mentorship (20+ years)
+- Higher education IAM community leader: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee (2024-2026)
+- Trusted Access Platform expertise: Shibboleth and Grouper implementation and architecture for federated identity
+- 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration across the UW System
+- Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
+- Federation standards: SAML and OIDC implementation enabling research and education collaboration
 - Emergency response: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton)
 - Multi-sector: government emergency response, higher education IT, humanitarian field operations
 
-This background shapes the voice—open source advocacy, appropriate technology principles, framework-based thinking, field-tested solutions. Your writing draws on different experience. The structural patterns (framework-based, evidence-driven, translation-friendly) transfer. The specific authority markers don't.
+This background shapes the voice—federated identity expertise, peer-to-peer community building, open source advocacy, appropriate technology principles, framework-based thinking, field-tested solutions. Your writing draws on different experience. The structural patterns (framework-based, evidence-driven, translation-friendly) transfer. The specific authority markers don't.
 
 ## Example: Voice Transformation
 

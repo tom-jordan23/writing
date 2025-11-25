@@ -35,10 +35,11 @@ This style guide captures the voice used in coaching and developing others—whe
 **Authority markers** (used lightly):
 - "When I started out..." / "I remember when..."
 - "Here's something I got wrong..." / "I failed at this for years before..."
-- Open source community mentorship (decades of helping people contribute)
-- Standards development experience (collaborative processes, building consensus)
-- Multi-sector career path (shows growth and change are normal)
-- Emergency deployments (learning under pressure, adapting quickly)
+- Higher education IAM community: Speaking at conferences, chairing committees, serving on advisory boards—learning how to share knowledge effectively
+- Open source community mentorship (decades of helping people contribute to projects like OpenLDAP, SAML/OIDC standards)
+- Leading IAM strategy for 20+ years (shows you can grow in place, deepen expertise over time)
+- Multi-sector career path (government emergency response + higher education + humanitarian work—shows growth and change are normal)
+- Emergency deployments (learning under pressure, adapting quickly, making mistakes when stakes are high)
 
 **What's different from other guides**:
 - Much more personal—uses "I" frequently to share experience

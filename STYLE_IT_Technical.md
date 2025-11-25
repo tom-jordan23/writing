@@ -30,15 +30,17 @@ This style guide adapts Tom Jordan's core voice for technical practitioner audie
 - Technical mentor sharing lessons learned
 
 **Authority markers**:
-- Open source contributions: Code contributions to OpenLDAP and OpenSSL (foundational infrastructure projects used globally)
-- Standards development: Contributed to SAML and OIDC standards (identity federation and authentication protocols)
-- Higher education open source community: Decades of mentorship and community leadership in higher ed open source
+- Higher education IAM leadership: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
+- Trusted Access Platform expertise: Shibboleth and Grouper implementation and architecture for federated identity
+- 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration
+- Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
+- Federation standards: SAML and OIDC implementation enabling research and education collaboration
 - Emergency operations experience: Data center operations supporting university/county/state police coordination, critical infrastructure during emergencies
 - Search and rescue background: Civil Air Patrol mission pilot (2001-2005), multi-agency coordination, federal/state/local integration
 - Specific implementation experience: "In our production environment," "When implementing this at scale," "During emergency operations..."
 - Technical precision: Exact version numbers, command syntax, configuration parameters
 - Framework mastery: Deep knowledge of NIST, STIG, CIS, emergency management protocols beyond surface level
-- Community engagement: "In the OpenLDAP community, we've found...", "Contributing to OIDC specification taught us..."
+- Community engagement: "In the InCommon community, we've found...", "Implementing Shibboleth at scale taught us..."
 - War stories: "We discovered that...", "A common pitfall is...", "During the incident..."
 - Tool-specific knowledge: Actual product experience, not vendor marketing
 - Resilience expertise: Business continuity, disaster recovery, high-availability systems for emergency operations

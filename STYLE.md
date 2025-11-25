@@ -248,9 +248,11 @@ Tom Jordan writes as an **authoritative educator-practitioner** who translates c
 
 **Authority markers**:
 - Byline identification: "Solutions architect at the University of Wisconsin–Madison"
-- Open source contributions: Code contributions to OpenLDAP and OpenSSL (foundational infrastructure projects)
-- Standards development: Contributed to SAML and OIDC standards (identity federation and authentication protocols)
-- Community leadership: Decades mentoring higher education open source community
+- Higher education IAM leadership: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
+- Trusted Access Platform expertise: Shibboleth and Grouper implementation and architecture for federated identity
+- Open source contributions: OpenLDAP and OpenSSL implementation and community support
+- Standards development: SAML and OIDC implementation in higher education federation contexts
+- Community leadership: 20+ years leading IAM strategy and building peer networks in higher education
 - Specific frameworks referenced by name and number
 - Historical context provided (Heartbleed Bug, Conway's Law)
 - "We" when referring to higher ed community

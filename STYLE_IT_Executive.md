@@ -30,9 +30,12 @@ This style guide adapts Tom Jordan's core practitioner-educator voice for execut
 - Understands board dynamics and fiduciary responsibility
 
 **Authority markers**:
-- Open source leadership: Code contributions to OpenLDAP and OpenSSL; strategic understanding of open source sustainability
-- Standards development: Contributed to SAML and OIDC standards; understands how standards emerge and evolve
-- Community influence: Decades mentoring higher education open source community; recognized voice in sector
+- Higher education IAM leadership: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
+- Trusted Access Platform expertise: Shibboleth and Grouper implementation and architecture for federated identity
+- 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration across the UW System
+- Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
+- Federation standards: SAML and OIDC implementation enabling research and education collaboration
+- Community leadership: Peer-to-peer learning networks, open source mentorship in higher education
 - References to strategic frameworks: NIST, ISO, industry analyst research (Gartner, Forrester)
 - Institutional credential: Senior role at major research university
 - Board-level language: governance, risk appetite, strategic alignment

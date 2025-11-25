@@ -26,9 +26,11 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 ## Core Identity Across All Contexts
 
 **Background informing the voice**:
-- Open source contributor (OpenLDAP, OpenSSL)
-- Standards developer (SAML, OIDC)
-- 20+ years mentoring higher education open source community
+- Higher education IAM community leader: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee (2024-2026)
+- Trusted Access Platform expert: Shibboleth and Grouper implementation and architecture for federated identity
+- 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration
+- Open source implementation: OpenLDAP and OpenSSL deployment and community support
+- Federation standards: SAML and OIDC implementation in higher education contexts
 - Emergency responder: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton)
 - Multi-sector: Government emergency response + higher education IT + humanitarian field operations
 

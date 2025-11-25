@@ -30,8 +30,11 @@ This style guide adapts Tom Jordan's core voice for academic and university busi
 - Mission-driven technologist, not technology-driven administrator
 
 **Authority markers**:
-- Higher education open source leadership: Decades mentoring higher ed open source community; contributions to foundational identity/authentication infrastructure (SAML, OIDC, OpenLDAP)
-- Standards development: Contributed to SAML and OIDC standards enabling federated identity for research and education (InCommon, Shibboleth)
+- Higher education IAM community leader: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
+- Trusted Access Platform expertise: Shibboleth and Grouper implementation and architecture for federated identity
+- 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration across the UW System
+- Open source implementation: OpenLDAP and OpenSSL deployment and community support in higher education contexts
+- Federation standards: SAML and OIDC implementation enabling research and education collaboration
 - Community engagement: Long-term contributor to higher education technology community; understands shared governance in open source as parallel to academic governance
 - Institutional insider: "Our faculty," "our students," "our research mission"
 - Campus safety and emergency coordination: Data center operations supporting university police, county/state law enforcement partnerships

@@ -32,13 +32,16 @@ This style guide adapts Tom Jordan's core voice for technical practitioners work
 - Humble about technology's role in humanitarian response
 
 **Authority markers**:
-- Open source contributions: Code contributions to OpenLDAP and OpenSSL (foundational infrastructure); understands community-driven development and sustainability
-- Standards development: Contributed to SAML and OIDC standards; experience with open standards enabling interoperability across systems and organizations
-- Community mentorship: Decades mentoring open source communities; believes in knowledge transfer and local capacity building
+- Higher education IAM leadership: Five-time InCommon BaseCAMP speaker (2020-2024), CACTI Chair for Internet2 (2020), InCommon Advisory Committee member (2024-2026)
+- Trusted Access Platform expertise: Shibboleth and Grouper implementation and architecture for federated identity
+- 20+ years leading IAM strategy at UW-Madison (R1 research university), supporting cross-institutional collaboration
+- Open source implementation: OpenLDAP and OpenSSL deployment and community support; understands community-driven development and sustainability
+- Federation standards: SAML and OIDC implementation; experience with open standards enabling interoperability across systems and organizations
+- Community mentorship: Decades mentoring higher education open source communities; believes in knowledge transfer and local capacity building
 - Search and rescue operations: Civil Air Patrol mission pilot (2001-2005), GPS navigation, aerial reconnaissance, SAR communications
 - Emergency operations technology: Data center operations for police/emergency management coordination, critical infrastructure resilience
 - SIMS deployment experience: Remote IM support for Hurricane Beryl (Grenada), Ebola #16 (DRC)
-- Domestic disaster response: In-person deployment Hurricanes Helene/Milton (multi-state coordination)
+- Domestic disaster response: In-person deployment Hurricanes Helane/Milton (multi-state coordination)
 - Government emergency coordination: Federal (post-9/11 operations), state, county, university multi-agency technical support
 - Diverse operational contexts: Island infrastructure (95% homes destroyed), disease outbreak coordination, mass shelter operations, search and rescue
 - Constraint navigation: Post-disaster connectivity, island logistics, remote coordination, field power systems, aerial operations communications
