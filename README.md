@@ -1,19 +1,16 @@
 # Writing Style Documentation
 
-This repository contains comprehensive style guides for replicating Tom Jordan's writing voice across different professional audiences.
+This repository documents Tom Jordan's writing voice across professional contexts—IT, academic, humanitarian, and staff development.
 
-## Background
+## Quick Start
 
-These guides analyze writing patterns, voice, and approach based on published work and professional experience including:
-- Open source contributions (OpenLDAP, OpenSSL)
-- Standards development (SAML, OIDC)
-- Higher education open source community mentorship
-- Emergency response deployments (Civil Air Patrol, SIMS, American Red Cross)
-- Multi-sector experience (government emergency response, higher education IT, humanitarian field operations)
+**For AI integration**: `https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md`
+
+Paste that URL into any GPT chat, say what you're writing and for whom, and the AI handles the voice.
+
+**For detailed work**: Choose the relevant guide from the table below, upload it to your AI assistant, provide your key points.
 
 ## File Selection
-
-Choose the guide that matches your primary audience:
 
 | Audience | File | Focus |
 |----------|------|-------|
@@ -26,117 +23,135 @@ Choose the guide that matches your primary audience:
 | Direct reports, mentees, anyone you're coaching | `STYLE_Staff_Development.md` | Growth, learning, developmental conversations |
 | General or mixed audience | `STYLE.md` | Base style applicable across contexts |
 
-## Using with AI Assistants
+## What the Guides Capture
 
-The simplest approach:
+### Structure
 
-1. Upload the relevant style guide file to your AI assistant (ChatGPT, Claude, etc.)
-2. Provide your topic and key points
-3. Ask the AI to write using the uploaded guide
+Framework-based thinking—NIST for IT security, CHS/Sphere for humanitarian work, shared governance principles for academia. The frameworks provide scaffolding.
 
-Example prompt:
-```
-Write about [topic] for [audience] using the uploaded style guide.
+Example opening:
+> "Zero-trust architecture—verifying every request regardless of network location—addresses the fundamental weakness of perimeter-based security. NIST SP 800-207 provides implementation guidance: define your protect surface, map transaction flows, build architecture, create policies, monitor and maintain."
 
-Key points:
-- [point one]
-- [point two]
-- [point three]
+Framework reference (NIST), em-dash clarification, specific guidance.
 
-Length: [word count or approximate length]
-```
+### Evidence
 
-The guide contains the voice, tone, structure, and approach patterns. You provide the content direction.
+Not "use multi-factor authentication."
 
-## Core Style Characteristics
+Instead: "TOTP-based MFA using FreeOTP (open source, works offline) or Duo ($3/user/month) provides stronger authentication than SMS. Tested with 50,000 faculty/staff at peer institutions—implementation timeline 4-6 months."
 
-All guides share these foundations:
+Version numbers, costs, timelines, peer institutions, deployment experience.
 
-**Structure**: Framework-based thinking with clear hierarchical organization. NIST, CHS, Sphere, or other established frameworks provide scaffolding.
+### Tone
 
-**Evidence**: Specific examples with version numbers, costs, timelines, and citations. Peer institutions for higher education contexts, deployment experience for humanitarian contexts, production implementations for technical contexts.
+Authoritative without arrogance. Acknowledges complexity—"This is challenging" not "This is simple." Shares uncertainty—"Here's what worked in our context; your mileage may vary."
 
-**Tone**: Authoritative without arrogance. Acknowledges complexity while providing practical guidance. Warm but not informal.
+### Language
 
-**Language**: Translation-friendly—avoids idioms and culturally-specific metaphors, particularly critical in humanitarian and international higher education contexts.
+Translation-friendly. Critical for humanitarian operations (field staff use Google Translate on SOPs) and international contexts. One idea per sentence, active voice, no idioms. "Easily achievable priorities" not "low-hanging fruit."
 
-**Values**: Technology serves people. Centers marginalized voices. Challenges power structures. Open source advocacy when appropriate.
+Not stylistic preference—operational necessity when unclear guidance affects beneficiary safety.
 
-## Key Adaptations by Audience
+### Punctuation
 
-**IT Executive**: Strategic framing, business impact, concise presentation suitable for senior leadership review. ROI and risk mitigation emphasized.
+High-frequency em-dash usage:
+- "The protect surface—critical data and systems—requires strongest controls"
+- "Zero-trust architecture—authentication for every request—replaces perimeter security"
 
-**IT Technical**: Implementation depth, command syntax, configuration examples, troubleshooting guidance. Peer-to-peer technical voice.
+Colons for lists and elaborations. Quotation marks for terms being defined. Serial commas.
 
-**Academic**: Mission-first framing, respect for shared governance, consultation rather than direction. References to peer institutions and educational research.
+### Warmth
 
-**Humanitarian Executive**: Beneficiary-centered decision making, humanitarian principles non-negotiable, resource constraints openly acknowledged.
+"This work is hard. You're going to make mistakes. That's how learning happens. You don't need to be perfect."
 
-**Humanitarian Program**: Operational specificity, M&E integration, field team perspective, partner coordination emphasis.
+Not corporate sterile. Human.
 
-**Humanitarian Technical**: Appropriate technology principles—offline-first, locally repairable, low power consumption, open source preferred. Constraint-driven design.
+## Cross-Cutting Themes
 
-## Cross-Cutting Frameworks
+Three frameworks integrated across all guides.
 
-Three themes integrated across all guides:
+**Historical Context**: Optional connections to foundational principles. Stoic philosophy (dichotomy of control, amor fati), technical foundations (Saltzer & Schroeder 1975), humanitarian history (Solferino, Rwanda). Always framed as enrichment, never required. 1-2 paragraphs maximum.
 
-**Historical Context**: Optional connections to foundational principles and thinkers. Stoic philosophy applied to professional challenges (dichotomy of control, amor fati, sympatheia). Always framed as enrichment, never required knowledge.
+**Anti-Oppressive Language**: Challenges systems of oppression—racism, classism, sexism, ableism. Questions who benefits and who's excluded. In humanitarian contexts, explicitly names colonialism and centers local leadership. In technical contexts, advocates open source and questions "best practices" (often code for "what well-funded US companies do").
 
-**Anti-Oppressive Language**: Actively challenges systems of oppression—racism, classism, sexism, ableism. Questions who benefits and who is excluded from technical decisions. Centers community voice over external expertise in humanitarian contexts.
+**Cross-Linguistic Accessibility**: Avoids idioms, uses literal language, structures for machine translation. Especially critical in humanitarian field operations where unclear SOPs create safety risks.
 
-**Cross-Linguistic Accessibility**: Avoids idioms that fail in translation. One idea per sentence, active voice, specific verbs. Critical in humanitarian field operations where unclear guidance affects beneficiary safety.
+## Background
+
+The voice reflects specific professional experience:
+
+- Open source contributions (OpenLDAP, OpenSSL)
+- Standards development (SAML, OIDC)
+- Higher education open source community mentorship (20+ years)
+- Emergency response: Civil Air Patrol SAR pilot (2001-2005), SIMS deployments (Hurricane Beryl/Grenada, Ebola #16/DRC), American Red Cross (Hurricanes Helene/Milton)
+- Multi-sector: government emergency response, higher education IT, humanitarian field operations
+
+This background shapes the voice—open source advocacy, appropriate technology principles, framework-based thinking, field-tested solutions. Your writing draws on different experience. The structural patterns (framework-based, evidence-driven, translation-friendly) transfer. The specific authority markers don't.
+
+## Example: Voice Transformation
+
+**Generic AI output**:
+> "Implementing zero-trust architecture is important for modern security. Organizations should consider this approach. It requires careful planning."
+
+**After applying STYLE_IT_Executive.md**:
+> "Zero-trust architecture addresses a fundamental shift—perimeter-based security assumes internal users are trustworthy, an assumption that fails when credential theft provides threat actors initial access. Implementation requires three decisions: defining your protect surface (critical data requiring strongest controls), selecting architecture approach (NIST SP 800-207 provides frameworks), and planning migration (peer institutions report 12-18 months). Initial investment: $200K-$500K depending on infrastructure. ROI comes through reduced breach impact—Ponemon data shows $4.24M average breach cost, making this risk mitigation rather than technical upgrade."
+
+What changed: Framework reference (NIST), specific timelines (12-18 months), peer evidence, cost ranges, ROI data, em-dash clarifications, strategic framing.
 
 ## Common Issues
 
-**Output feels too generic**: Upload the full style guide file rather than relying on summary prompts. Specify the audience explicitly.
+**Output feels generic**: Upload the full guide file, not a summary. Specify audience explicitly.
 
-**Wrong tone for audience**: Verify you uploaded the correct audience-specific guide. IT Executive and IT Technical guides produce significantly different output despite covering similar topics.
+**Wrong tone**: Verify correct audience guide. IT Executive and Staff Development produce very different output.
 
-**Uses problematic idioms**: Remind the AI that content may be translated—request literal, clear language particularly for humanitarian or international higher education contexts.
+**Uses idioms**: Remind the AI content may be translated. Humanitarian and international contexts require literal language.
 
-**Missing framework grounding**: Explicitly request framework integration—"ground this in NIST controls" or "reference CHS indicators."
-
-## Additional Resources
-
-`STYLE_INDEX.md` provides detailed comparison across guides and routing logic.
-
-`QUICK_START.md` offers step-by-step setup for common AI platforms.
-
-`AI_INTEGRATION_GUIDE.md` covers platform-specific implementation (Custom GPT, Claude Projects, API integration).
-
-`STYLE_PROMPT_CONDENSED.md` provides abbreviated guidance for character-limited contexts.
+**Missing framework grounding**: Request explicitly—"ground this in NIST controls" or "reference CHS indicators."
 
 ## File Organization
 
-Total documentation: approximately 7,000 lines across all guides.
+**Single-URL integration**: `tojo_style.md` (condensed, all audiences)
 
-Base style guide (`STYLE.md`): 1,360 lines analyzing core patterns.
+**Base analysis**: `STYLE.md` (1,360 lines analyzing core patterns)
 
-Six audience-specific adaptations: 700-1,400 lines each, depending on context complexity.
+**Audience adaptations**: 7 guides, 700-1,400 lines each
 
-Supporting frameworks and integration guides: 200-500 lines each.
+**Integration**: `QUICK_START.md`, `AI_INTEGRATION_GUIDE.md`, `STYLE_INDEX.md`
+
+**Frameworks**: `HISTORICAL_CONTEXT_FRAMEWORK.md`, `ANTI_OPPRESSIVE_LANGUAGE_ADDITIONS.md`, `CROSS_LINGUISTIC_STYLE_GUIDE.md`
+
+Total: ~8,000 lines.
+
+## Using with AI Assistants
+
+Upload relevant guide or paste URL. Provide topic and key points. AI handles voice, structure, evidence patterns.
+
+For human writers: Read guides to see patterns, practice applying them, get feedback.
+
+For teams: Shared Custom GPT or Claude Project ensures consistent voice.
 
 ## Maintenance
 
-These guides represent patterns observed as of November 2025. Writing evolves with experience—particularly as deployment contexts, technology standards, and professional focus shift over time.
+These guides capture patterns as of November 2025. Writing evolves with experience—new deployments, shifting focus, emerging frameworks. Update when context changes.
 
-Update guides when:
-- New deployment experience adds relevant context
-- Professional role or focus changes
-- New frameworks or standards become relevant
-- Audience needs shift
-- Language usage evolves
-
-Version control through git enables tracking changes and reverting if needed.
-
-## Note on Use
-
-The style captured here reflects specific professional background and values. When using these guides, consider whether the voice fits your context. The technical patterns (structure, evidence, clarity) transfer broadly. The specific authority markers (deployment experience, standards work, community leadership) are contextual to this particular professional history.
-
-If writing for audiences unfamiliar with the background, you may need to establish credibility through different evidence sources while maintaining the structural and tonal patterns.
+The voice in 2030 won't match 2025 exactly. That's growth. The structural patterns persist (framework-based, evidence-driven, warm, accessible). The specific examples and contexts shift.
 
 ## For Those Developing Their Own Voice
 
-The `STYLE_Staff_Development.md` guide is for anyone on a professional growth journey—whether you're learning to write in this style, developing your own voice, or mentoring others. Young or old, early career or experienced, if you're on this path: god bless. Your voice matters. Your perspective adds value. You don't need to copy—build on what's useful, leave what doesn't fit, create something that's yours.
+You don't need to copy this voice. These guides enable replication by AI or consistent team output. Your voice should reflect your experience and values.
 
-These guides welcome contribution. Your additions make them richer. Your questions make them clearer. Your experience fills gaps that can't be seen from a single perspective. Everyone is welcome here.
+Take what's useful—framework-based structure, specific evidence, translation-friendly language, warmth.
+
+Leave what doesn't fit—your authority comes from different experience, your tone might differ, your values might emphasize different dimensions.
+
+The `STYLE_Staff_Development.md` guide is for anyone on this journey. Your voice matters. Your perspective fills gaps. Everyone is welcome.
+
+## Contributing
+
+See `CONTRIBUTING.md`. The bar is "does this make the guides more useful?" not bureaucratic requirements. Fork, improve, submit PR.
+
+---
+
+**Repository**: https://github.com/tom-jordan23/writing
+**Quick integration**: https://raw.githubusercontent.com/tom-jordan23/writing/main/tojo_style.md
+**Version**: 1.0 (November 2025)
