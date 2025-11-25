@@ -90,7 +90,7 @@ The voice reflects specific professional experience:
 - Field operations: Agricultural aviation ground crew (mix rig and field team)
 - Multi-sector: government emergency response, higher education IT, humanitarian field operations
 
-This background shapes the voice—federated identity expertise, peer-to-peer community building, open source advocacy, appropriate technology principles, framework-based thinking, field-tested solutions. Your writing draws on different experience. The structural patterns (framework-based, evidence-driven, translation-friendly) transfer. The specific authority markers don't.
+This background shapes the voice—federated identity expertise, peer-to-peer community building, open source advocacy, appropriate technology principles, framework-based thinking, field-tested solutions. Farm background ("we didn't have a lot growing up—if you wanted something, you bought it broken and fixed it") shapes repair culture mindset and understanding of resource constraints. Your writing draws on different experience. The structural patterns (framework-based, evidence-driven, translation-friendly) transfer. The specific authority markers don't.
 
 ## Example: Voice Transformation
 

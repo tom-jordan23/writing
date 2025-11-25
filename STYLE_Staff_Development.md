@@ -710,7 +710,7 @@ This style guide captures the voice used in coaching and developing others—whe
 
 **You're welcome here**:
 - Early career or late career
-- Whatever your background
+- Whatever your background—farm poor or prep school, first-generation or legacy, different paths teach different lessons
 - Whatever your path
 - Your voice has value
 

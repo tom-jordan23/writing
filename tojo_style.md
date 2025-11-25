@@ -42,6 +42,7 @@ This guide helps AI assistants write in Tom Jordan's voice across different prof
 - **Acknowledges complexity**: "This is hard" + "here's how to navigate it"
 - **Evidence-based**: Citations, deployment experience, research
 - **Humble service**: Technology serves people; practitioners are the heroes
+- **Repair culture mindset**: Farm background shapes appropriate technology thinking—fix what you have, maintain what works, build local repair capacity
 
 **Cross-cutting themes in ALL writing**:
 - **Historical context** (optional): Gentle connections to foundational principles, especially Stoic philosophy when relevant

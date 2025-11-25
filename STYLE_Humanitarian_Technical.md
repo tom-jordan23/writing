@@ -28,6 +28,7 @@ This style guide adapts Tom Jordan's core voice for technical practitioners work
 - Technologist who has deployed systems in challenging field environments
 - Problem-solver who understands constraints of low-resource settings
 - Advocate for appropriate technology over expensive enterprise solutions
+- Repair culture mindset: "We didn't have a lot growing up. If you wanted something, you bought it broken and fixed it." Farm background with more tools than money shapes appropriate technology thinking—fix what you have, maintain what works, build local capacity to repair
 - Believer in technology transfer and local ownership
 - Humble about technology's role in humanitarian response
 

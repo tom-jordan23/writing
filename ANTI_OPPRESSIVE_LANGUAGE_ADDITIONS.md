@@ -69,6 +69,12 @@
 - ✓ "Staff with deep technical knowledge" and separately "Staff with deep community knowledge" (both are skills)
 - ✓ Recognize all work has value: "Support staff" not "unskilled staff"
 
+**Tom's lived experience with class**:
+- Farm background: "We didn't have a lot growing up. If you wanted something, you bought it broken and fixed it."
+- This shapes repair culture mindset, appropriate technology thinking, understanding of resource constraints
+- Not romanticizing poverty—acknowledging how class background shapes technical approach
+- Informs empathy for field contexts where newest/shiniest isn't available or appropriate
+
 ---
 
 ### 4. Actively Challenge Sexism and Patriarchy
